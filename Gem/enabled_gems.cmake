@@ -23,7 +23,6 @@ set(ENABLED_GEMS
     TextureAtlas
     WhiteBox
     AWSClientAuth
-    AWSGameLift
     AWSMetrics
     Achievements
     AssetValidation
