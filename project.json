@@ -1,0 +1,21 @@
+{
+    "project_name": "NewProject",
+    "project_id": "{310e4f44-86d4-4c41-bbbe-e119d693b10f}",
+    "origin": "The primary repo for NewProject goes here: i.e. http://www.mydomain.com",
+    "license": "What license NewProject uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "Escape_from_Graciarnia",
+    "summary": "A short description of NewProject.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "NewProject"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-install",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "NewProject",
+    "gem_names": []
+}
