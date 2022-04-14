@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Escape_from_Graciarnia\sounds\wwise_project\</ProjectRoot>
+		<SourceFilesRoot>C:\Escape_from_Graciarnia\sounds\wwise_project\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Escape_from_Graciarnia\sounds\wwise\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Escape_from_Graciarnia\sounds\wwise_project\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3046398599">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3604647259" Language="SFX" Hash="2187332120">
+			<ObjectPath>\SoundBanks\Default Work Unit\MainMenu</ObjectPath>
+			<ShortName>MainMenu</ShortName>
+			<Path>MainMenu.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3998606525" Name="PlayMainMenu" ObjectPath="\Events\Default Work Unit\PlayMainMenu">
+					<IncludedMemoryFiles>
+						<File Id="20891069" Language="SFX">
+							<ShortName>MainThemeREPULSIVE-Forgotten.wav</ShortName>
+							<Path>SFX\MainThemeREPULSIVE-Forgotten_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1611511939" Name="StopMainMenu" ObjectPath="\Events\Default Work Unit\StopMainMenu"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="20891069" Language="SFX">
+					<ShortName>MainThemeREPULSIVE-Forgotten.wav</ShortName>
+					<Path>SFX\MainThemeREPULSIVE-Forgotten_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<GameParameters>
+				<GameParameter Id="3479155863" Name="MainMusic" ObjectPath="\Game Parameters\Default Work Unit\MainMusic"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

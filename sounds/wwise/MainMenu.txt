@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1611511939	StopMainMenu			\Default Work Unit\StopMainMenu	
+	3998606525	PlayMainMenu			\Default Work Unit\PlayMainMenu	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3479155863	MainMusic			\Default Work Unit\MainMusic	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	20891069	MainThemeREPULSIVE-Forgotten	C:\Escape_from_Graciarnia\sounds\wwise_project\.cache\Windows\SFX\MainThemeREPULSIVE-Forgotten_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MainThemeREPULSIVE-Forgotten		35371672
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5C8EBA92-6B08-49F4-9C15-343974243A20}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{5C8EBA92-6B08-49F4-9C15-343974243A20}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="MainMenu" ID="{EF33BAA6-C7AA-4A94-90F1-071C9DB75DD5}">
+					<ObjectInclusionList>
+						<ObjectRef Name="MainThemeREPULSIVE-Forgotten" ID="{04FEAD25-562A-42B2-BCAD-A2FDE0C384B5}" WorkUnitID="{C69F679A-EF50-4DFC-8B42-F61644527480}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="StopMainMenu" ID="{C79182DF-75D2-49C0-B46D-BC333A7B5A41}" WorkUnitID="{545AFAD7-F1B7-4C68-B6B3-8DE68259DFC0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PlayMainMenu" ID="{A4AAB81C-2805-4FD7-8201-80E41AC5381E}" WorkUnitID="{545AFAD7-F1B7-4C68-B6B3-8DE68259DFC0}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

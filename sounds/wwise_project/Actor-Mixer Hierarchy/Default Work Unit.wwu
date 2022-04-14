@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C69F679A-EF50-4DFC-8B42-F61644527480}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{C69F679A-EF50-4DFC-8B42-F61644527480}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="MainThemeREPULSIVE-Forgotten" ID="{04FEAD25-562A-42B2-BCAD-A2FDE0C384B5}" ShortID="140366861">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<RTPCList>
+								<RTPC Name="" ID="{F68C1DE8-6E66-4A05-9A3C-A35A47E58D63}" ShortID="588139006">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="MainMusic" ID="{119B90AB-47E4-47DF-B2FD-85122FFB400E}" WorkUnitID="{D258C1B9-229A-4E76-B1B1-A957E9E845BD}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{E072F4E9-AFE2-4045-9BD3-409803640355}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="3"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-42.21179</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>200</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{FDEE6B07-CA3E-4FBF-ADA1-7F45BBC9C715}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{AC2E8506-8545-4BEC-9718-0553FDA68BA9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MainThemeREPULSIVE-Forgotten" ID="{EC45D8E2-2381-4F6A-828D-781CA95DF53E}">
+							<Language>SFX</Language>
+							<AudioFile>MainThemeREPULSIVE-Forgotten.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="20891069"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="MainThemeREPULSIVE-Forgotten" ID="{EC45D8E2-2381-4F6A-828D-781CA95DF53E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
