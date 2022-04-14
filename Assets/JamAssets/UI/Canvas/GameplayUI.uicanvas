@@ -182,7 +182,7 @@
 									<Class name="int" field="SpriteType" value="0" type="{72039442-EB38-4D42-A1AD-CB68F7E0EEF6}"/>
 									<Class name="SimpleAssetReference&lt;AssetType&gt;&lt;TextureAsset &gt;" field="SpritePath" version="1" type="{6E0B1C86-F66A-5D30-BCBB-0F9EA199E4AF}">
 										<Class name="SimpleAssetReferenceBase" field="BaseClass1" version="1" type="{E16CA6C5-5C78-4AD9-8E9B-F8C1FB4D1DB8}">
-											<Class name="AZStd::string" field="AssetPath" value="assets/ui/assets/hp_overlay_win_lose/3-stage_dmg.png" type="{03AAAB3F-5C47-5A66-9EBC-D5FA4DB353C9}"/>
+											<Class name="AZStd::string" field="AssetPath" value="assets/jamassets/hp_overlay_win_lose/3-stage_dmg.png" type="{03AAAB3F-5C47-5A66-9EBC-D5FA4DB353C9}"/>
 										</Class>
 									</Class>
 									<Class name="unsigned int" field="Index" value="0" type="{43DA906B-7DEF-4CA8-9790-854106D3F983}"/>
@@ -205,7 +205,7 @@
 									<Class name="AZ::Component" field="BaseClass1" type="{EDFCB2CF-F75D-43BE-B26B-F35821B29247}">
 										<Class name="AZ::u64" field="Id" value="3312990780655857835" type="{D6597933-47CD-4FC8-B911-63F3E2B0993A}"/>
 									</Class>
-									<Class name="float" field="Fade" value="1.0000000" type="{EA2C3E90-AFBE-44D4-A90D-FAAF79BAF93D}"/>
+									<Class name="float" field="Fade" value="0.0000000" type="{EA2C3E90-AFBE-44D4-A90D-FAAF79BAF93D}"/>
 									<Class name="bool" field="UseRenderToTexture" value="false" type="{A0CA880C-AFE4-43CB-926C-59AC48496112}"/>
 								</Class>
 							</Class>
