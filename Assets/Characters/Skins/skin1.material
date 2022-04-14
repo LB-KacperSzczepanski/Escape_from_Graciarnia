@@ -1,0 +1,8 @@
+{
+    "materialType": "../../../../../../../../o3de-install/Gems/Atom/Feature/Common/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 4,
+    "propertyValues": {
+        "baseColor.textureMap": "survivorMaleB.png",
+        "baseColor.textureMapUv": "Unwrapped"
+    }
+}
