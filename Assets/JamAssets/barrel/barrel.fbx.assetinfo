@@ -1,0 +1,51 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{5E96B9C7-6411-528C-B19D-F3E7FC4CEA16}",
+            "name": "barrel",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.Cylinder_014.Cylinder_014_1"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.Cylinder_014",
+                    "RootNode.Cylinder_014.Cylinder_014_2"
+                ]
+            },
+            "MaterialSlots": [
+                "metal_003"
+            ],
+            "PhysicsMaterials": [
+                "<Default Physics Material>"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "barrel",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.Cylinder_014",
+                    "RootNode.Cylinder_014.Cylinder_014_1",
+                    "RootNode.Cylinder_014.Cylinder_014_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{FF9426E4-52AF-560F-A8FF-7E743B5938BF}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

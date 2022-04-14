@@ -1,0 +1,22 @@
+{
+    "materialType": "Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 4,
+    "propertyValues": {
+        "baseColor.color": [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929,
+            1.0
+        ],
+        "baseColor.textureMap": "Assets/JamAssets/barrel/barrel_Albedo.png",
+        "emissive.color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "metallic.textureMap": "Assets/JamAssets/barrel/barrel_Metalness.png",
+        "opacity.factor": 1.0,
+        "roughness.textureMap": "Assets/JamAssets/barrel/barrel_Roughness.png"
+    }
+}
