@@ -1,0 +1,63 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{48328D99-570B-5175-8079-4120865AEEF1}",
+            "name": "blockDirt",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockDirt",
+                    "RootNode.blockDirt.blockDirt_1",
+                    "RootNode.blockDirt.blockDirt_2",
+                    "RootNode.blockDirt.blockDirt_1.transform",
+                    "RootNode.blockDirt.blockDirt_1.custom_properties",
+                    "RootNode.blockDirt.blockDirt_1.map1",
+                    "RootNode.blockDirt.blockDirt_1.dirt",
+                    "RootNode.blockDirt.blockDirt_2.transform",
+                    "RootNode.blockDirt.blockDirt_2.custom_properties",
+                    "RootNode.blockDirt.blockDirt_2.map1",
+                    "RootNode.blockDirt.blockDirt_2.dirt"
+                ]
+            },
+            "MaterialSlots": [
+                "dirt"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Dirt"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockDirt",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockDirt",
+                    "RootNode.blockDirt.blockDirt_1",
+                    "RootNode.blockDirt.blockDirt_2",
+                    "RootNode.blockDirt.blockDirt_1.transform",
+                    "RootNode.blockDirt.blockDirt_1.custom_properties",
+                    "RootNode.blockDirt.blockDirt_1.map1",
+                    "RootNode.blockDirt.blockDirt_1.dirt",
+                    "RootNode.blockDirt.blockDirt_2.transform",
+                    "RootNode.blockDirt.blockDirt_2.custom_properties",
+                    "RootNode.blockDirt.blockDirt_2.map1",
+                    "RootNode.blockDirt.blockDirt_2.dirt"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{DAD2DEAD-4EE6-5DEF-B7E7-96F5462757A2}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

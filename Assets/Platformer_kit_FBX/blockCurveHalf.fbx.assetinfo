@@ -1,0 +1,69 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{987299AF-6B8E-523C-BA82-AC28C6A83C7C}",
+            "name": "blockCurveHalf",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCurveHalf",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.transform",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.custom_properties",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.UV0",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.dirt",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.grass",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.transform",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.custom_properties",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.UV0",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.dirt",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.grass"
+                ]
+            },
+            "MaterialSlots": [
+                "dirt",
+                "grass"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Dirt",
+                "Terrain_Grass"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockCurveHalf",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCurveHalf",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.transform",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.custom_properties",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.UV0",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.dirt",
+                    "RootNode.blockCurveHalf.blockCurveHalf_1.grass",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.transform",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.custom_properties",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.UV0",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.dirt",
+                    "RootNode.blockCurveHalf.blockCurveHalf_2.grass"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{D417F89E-01B0-5458-8CBD-69ABE1C06032}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

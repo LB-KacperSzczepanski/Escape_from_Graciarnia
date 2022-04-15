@@ -1,0 +1,50 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{ED427852-B18A-5732-8300-798BB02C25CC}",
+            "name": "bridgeHalf",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.bridgeHalf",
+                    "RootNode.bridgeHalf.bridgeHalf_1",
+                    "RootNode.bridgeHalf.bridgeHalf_2"
+                ]
+            },
+            "MaterialSlots": [
+                "woodDark",
+                "wood"
+            ],
+            "PhysicsMaterials": [
+                "Wood",
+                "Wood"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "bridgeHalf",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.bridgeHalf",
+                    "RootNode.bridgeHalf.bridgeHalf_1",
+                    "RootNode.bridgeHalf.bridgeHalf_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{296478A7-F2A5-53E5-8436-4EDA470B17A6}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

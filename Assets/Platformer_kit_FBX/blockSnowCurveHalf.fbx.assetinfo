@@ -1,0 +1,53 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{98A12766-862A-5F80-9C6B-B421CAD72EC7}",
+            "name": "blockSnowCurveHalf",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockSnowCurveHalf",
+                    "RootNode.blockSnowCurveHalf.blockSnowCurveHalf_2",
+                    "RootNode.blockSnowCurveHalf.blockSnowCurveHalf_1"
+                ],
+                "unselectedNodes": [
+                    {}
+                ]
+            },
+            "MaterialSlots": [
+                "dirt",
+                "snow"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Dirt",
+                "Plastic"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockSnowCurveHalf",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.blockSnowCurveHalf",
+                    "RootNode.blockSnowCurveHalf.blockSnowCurveHalf_1",
+                    "RootNode.blockSnowCurveHalf.blockSnowCurveHalf_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{2D41BA94-9335-5A50-BC81-F41A4E4949DA}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

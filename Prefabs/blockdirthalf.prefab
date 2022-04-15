@@ -1,0 +1,179 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blockdirthalf",
+        "Components": {
+            "Component_[10712783838800516477]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 10712783838800516477
+            },
+            "Component_[12249135771628266698]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 12249135771628266698
+            },
+            "Component_[14600835333413467103]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 14600835333413467103,
+                "Parent Entity": ""
+            },
+            "Component_[15493537074304135211]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 15493537074304135211
+            },
+            "Component_[17034431955570089081]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 17034431955570089081
+            },
+            "Component_[2079419253183913194]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 2079419253183913194,
+                "Child Entity Order": [
+                    "Entity_[4682120056163]"
+                ]
+            },
+            "Component_[3810582661846493556]": {
+                "$type": "EditorLockComponent",
+                "Id": 3810582661846493556
+            },
+            "Component_[6689616635369312399]": {
+                "$type": "SelectionComponent",
+                "Id": 6689616635369312399
+            },
+            "Component_[7306693090190012859]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 7306693090190012859
+            },
+            "Component_[7878337351812919224]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 7878337351812919224
+            },
+            "Component_[842072074059820853]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 842072074059820853
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[4682120056163]": {
+            "Id": "Entity_[4682120056163]",
+            "Name": "blockdirthalf",
+            "Components": {
+                "Component_[12170264940193214097]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 12170264940193214097,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{39B6BA49-9D28-5B01-BBBA-02BBBC954AE4}",
+                                    "subId": 274733413
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockdirthalf.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[13055843050062653814]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 13055843050062653814,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{39B6BA49-9D28-5B01-BBBA-02BBBC954AE4}",
+                                    "subId": 367357946
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockdirthalf.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{39B6BA49-9D28-5B01-BBBA-02BBBC954AE4}",
+                                        "subId": 367357946
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blockdirthalf.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[14361579912505118842]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 14361579912505118842,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 7885186960675007543
+                        },
+                        {
+                            "ComponentId": 12170264940193214097,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 13055843050062653814,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 646601374800268879,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[1709772905860713845]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 1709772905860713845
+                },
+                "Component_[18039363829530011483]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 18039363829530011483
+                },
+                "Component_[3257717415676631511]": {
+                    "$type": "SelectionComponent",
+                    "Id": 3257717415676631511
+                },
+                "Component_[4567720338832852972]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 4567720338832852972
+                },
+                "Component_[5136877411513039457]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 5136877411513039457
+                },
+                "Component_[6403314798412424548]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 6403314798412424548
+                },
+                "Component_[646601374800268879]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 646601374800268879,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[6988526931663777974]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 6988526931663777974
+                },
+                "Component_[7885186960675007543]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 7885186960675007543,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[8330169817314269747]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 8330169817314269747
+                }
+            }
+        }
+    }
+}

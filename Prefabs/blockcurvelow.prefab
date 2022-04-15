@@ -1,0 +1,182 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blockcurvelow",
+        "Components": {
+            "Component_[11686234047510082828]": {
+                "$type": "EditorLockComponent",
+                "Id": 11686234047510082828
+            },
+            "Component_[12183811201613155872]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 12183811201613155872
+            },
+            "Component_[12842899776365732601]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 12842899776365732601
+            },
+            "Component_[14451364148647076534]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 14451364148647076534,
+                "Child Entity Order": [
+                    "Entity_[3178881502563]"
+                ]
+            },
+            "Component_[14756212626705773407]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 14756212626705773407
+            },
+            "Component_[18384005439908349779]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 18384005439908349779
+            },
+            "Component_[333719885589473770]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 333719885589473770
+            },
+            "Component_[4940077502403788618]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 4940077502403788618,
+                "Parent Entity": ""
+            },
+            "Component_[5296835187048474079]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 5296835187048474079
+            },
+            "Component_[9305192702281634891]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 9305192702281634891
+            },
+            "Component_[9370403144403709189]": {
+                "$type": "SelectionComponent",
+                "Id": 9370403144403709189
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[3178881502563]": {
+            "Id": "Entity_[3178881502563]",
+            "Name": "blockcurvelow",
+            "Components": {
+                "Component_[10342920204513572322]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 10342920204513572322,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[13085363359083795886]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13085363359083795886
+                },
+                "Component_[14344867293505780101]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 14344867293505780101
+                },
+                "Component_[16487752173062693306]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 16487752173062693306,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 3920830879254894180
+                        },
+                        {
+                            "ComponentId": 16814192170219625419,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 5961941866996541677,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 10342920204513572322,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[16814192170219625419]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 16814192170219625419,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{949B32A8-AC10-5D29-8E10-F7705A090A10}",
+                                    "subId": 271879449
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockcurvelow.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[17845465050406510762]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 17845465050406510762
+                },
+                "Component_[3920830879254894180]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 3920830879254894180,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[489608195934244150]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 489608195934244150
+                },
+                "Component_[5961941866996541677]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 5961941866996541677,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{53733840-A095-40C4-B653-C40D233B3BE1}"
+                                },
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{949B32A8-AC10-5D29-8E10-F7705A090A10}",
+                                    "subId": 1372567307
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockcurvelow.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{949B32A8-AC10-5D29-8E10-F7705A090A10}",
+                                        "subId": 1372567307
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blockcurvelow.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[6411558203278492294]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 6411558203278492294
+                },
+                "Component_[8377284725667268193]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 8377284725667268193
+                },
+                "Component_[8628245957143811365]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 8628245957143811365
+                },
+                "Component_[8929852700904325235]": {
+                    "$type": "SelectionComponent",
+                    "Id": 8929852700904325235
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{CF6ADB4B-DA48-55C6-A755-E98554F8E539}",
+            "name": "blockDirtHalf",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockDirtHalf",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1.transform",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1.custom_properties",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1.map1",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1.dirt",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2.transform",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2.custom_properties",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2.map1",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2.dirt"
+                ]
+            },
+            "MaterialSlots": [
+                "dirt"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Dirt"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockDirtHalf",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockDirtHalf",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1.transform",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1.custom_properties",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1.map1",
+                    "RootNode.blockDirtHalf.blockDirtHalf_1.dirt",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2.transform",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2.custom_properties",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2.map1",
+                    "RootNode.blockDirtHalf.blockDirtHalf_2.dirt"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{910BA735-5B93-5DD9-BC54-66C385546FB4}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

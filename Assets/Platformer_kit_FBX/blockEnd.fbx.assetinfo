@@ -1,0 +1,69 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{4BFC444F-744F-57CB-B6FC-154114A4D06C}",
+            "name": "blockEnd",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockEnd",
+                    "RootNode.blockEnd.blockEnd_1",
+                    "RootNode.blockEnd.blockEnd_2",
+                    "RootNode.blockEnd.blockEnd_1.transform",
+                    "RootNode.blockEnd.blockEnd_1.custom_properties",
+                    "RootNode.blockEnd.blockEnd_1.UV0",
+                    "RootNode.blockEnd.blockEnd_1.grass",
+                    "RootNode.blockEnd.blockEnd_1.dirt",
+                    "RootNode.blockEnd.blockEnd_2.transform",
+                    "RootNode.blockEnd.blockEnd_2.custom_properties",
+                    "RootNode.blockEnd.blockEnd_2.UV0",
+                    "RootNode.blockEnd.blockEnd_2.grass",
+                    "RootNode.blockEnd.blockEnd_2.dirt"
+                ]
+            },
+            "MaterialSlots": [
+                "grass",
+                "dirt"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Grass",
+                "Terrain_Dirt"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockEnd",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockEnd",
+                    "RootNode.blockEnd.blockEnd_1",
+                    "RootNode.blockEnd.blockEnd_2",
+                    "RootNode.blockEnd.blockEnd_1.transform",
+                    "RootNode.blockEnd.blockEnd_1.custom_properties",
+                    "RootNode.blockEnd.blockEnd_1.UV0",
+                    "RootNode.blockEnd.blockEnd_1.grass",
+                    "RootNode.blockEnd.blockEnd_1.dirt",
+                    "RootNode.blockEnd.blockEnd_2.transform",
+                    "RootNode.blockEnd.blockEnd_2.custom_properties",
+                    "RootNode.blockEnd.blockEnd_2.UV0",
+                    "RootNode.blockEnd.blockEnd_2.grass",
+                    "RootNode.blockEnd.blockEnd_2.dirt"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{25485FBC-D7B6-53C8-B140-CCA4171D9C33}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

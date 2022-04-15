@@ -1,0 +1,52 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{52D2E48E-E12F-5FFE-8620-653B74F54C31}",
+            "name": "doorClosed",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.doorClosed",
+                    "RootNode.doorClosed.doorClosed_1",
+                    "RootNode.doorClosed.doorClosed_2"
+                ]
+            },
+            "MaterialSlots": [
+                "metal",
+                "wood",
+                "woodDark"
+            ],
+            "PhysicsMaterials": [
+                "Metal",
+                "Wood",
+                "Wood"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "doorClosed",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.doorClosed",
+                    "RootNode.doorClosed.doorClosed_1",
+                    "RootNode.doorClosed.doorClosed_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{FE0EC4E5-1ABE-5184-ADED-B20B3D0F5D51}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

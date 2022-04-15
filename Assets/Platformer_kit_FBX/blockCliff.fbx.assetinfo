@@ -1,0 +1,69 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{BD3553E6-97B1-56D2-8F90-BB45349D959B}",
+            "name": "blockCliff",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCliff",
+                    "RootNode.blockCliff.blockCliff_1",
+                    "RootNode.blockCliff.blockCliff_2",
+                    "RootNode.blockCliff.blockCliff_1.transform",
+                    "RootNode.blockCliff.blockCliff_1.custom_properties",
+                    "RootNode.blockCliff.blockCliff_1.UV0",
+                    "RootNode.blockCliff.blockCliff_1.grass",
+                    "RootNode.blockCliff.blockCliff_1.dirt",
+                    "RootNode.blockCliff.blockCliff_2.transform",
+                    "RootNode.blockCliff.blockCliff_2.custom_properties",
+                    "RootNode.blockCliff.blockCliff_2.UV0",
+                    "RootNode.blockCliff.blockCliff_2.grass",
+                    "RootNode.blockCliff.blockCliff_2.dirt"
+                ]
+            },
+            "MaterialSlots": [
+                "grass",
+                "dirt"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Grass",
+                "Terrain_Dirt"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockCliff",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCliff",
+                    "RootNode.blockCliff.blockCliff_1",
+                    "RootNode.blockCliff.blockCliff_2",
+                    "RootNode.blockCliff.blockCliff_1.transform",
+                    "RootNode.blockCliff.blockCliff_1.custom_properties",
+                    "RootNode.blockCliff.blockCliff_1.UV0",
+                    "RootNode.blockCliff.blockCliff_1.grass",
+                    "RootNode.blockCliff.blockCliff_1.dirt",
+                    "RootNode.blockCliff.blockCliff_2.transform",
+                    "RootNode.blockCliff.blockCliff_2.custom_properties",
+                    "RootNode.blockCliff.blockCliff_2.UV0",
+                    "RootNode.blockCliff.blockCliff_2.grass",
+                    "RootNode.blockCliff.blockCliff_2.dirt"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{F816834B-6349-530B-B288-572566373C3C}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

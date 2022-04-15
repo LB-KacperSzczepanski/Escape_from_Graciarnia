@@ -1,0 +1,182 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blocklong",
+        "Components": {
+            "Component_[10288263420865696936]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 10288263420865696936
+            },
+            "Component_[11419798972786426535]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 11419798972786426535
+            },
+            "Component_[11840266194594165464]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 11840266194594165464
+            },
+            "Component_[11939375638572916719]": {
+                "$type": "SelectionComponent",
+                "Id": 11939375638572916719
+            },
+            "Component_[14164808594285533431]": {
+                "$type": "EditorLockComponent",
+                "Id": 14164808594285533431
+            },
+            "Component_[17467393582728475379]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 17467393582728475379
+            },
+            "Component_[3838584277356387877]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 3838584277356387877
+            },
+            "Component_[5021787554772374377]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 5021787554772374377,
+                "Child Entity Order": [
+                    "Entity_[4003515223395]"
+                ]
+            },
+            "Component_[6353351093890469791]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 6353351093890469791
+            },
+            "Component_[7946087679928138024]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 7946087679928138024,
+                "Parent Entity": ""
+            },
+            "Component_[7983052124557612007]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 7983052124557612007
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[4003515223395]": {
+            "Id": "Entity_[4003515223395]",
+            "Name": "blocklong",
+            "Components": {
+                "Component_[11404559827183001863]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 11404559827183001863,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[12075795577673870416]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 12075795577673870416
+                },
+                "Component_[12816628211738025071]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 12816628211738025071,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{53733840-A095-40C4-B653-C40D233B3BE1}"
+                                },
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{9DED91B0-A2FA-5F06-87B5-4B9E473A0272}",
+                                    "subId": 3871554801
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blocklong.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{9DED91B0-A2FA-5F06-87B5-4B9E473A0272}",
+                                        "subId": 3871554801
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blocklong.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[12859248358021121937]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 12859248358021121937
+                },
+                "Component_[15208241850269811098]": {
+                    "$type": "SelectionComponent",
+                    "Id": 15208241850269811098
+                },
+                "Component_[3433010544977608592]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 3433010544977608592
+                },
+                "Component_[3624007120984314015]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 3624007120984314015
+                },
+                "Component_[3957428777746247261]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 3957428777746247261
+                },
+                "Component_[5214670663883952403]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 5214670663883952403
+                },
+                "Component_[5663127904897950247]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 5663127904897950247
+                },
+                "Component_[6256835002044624033]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 6256835002044624033,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{9DED91B0-A2FA-5F06-87B5-4B9E473A0272}",
+                                    "subId": 276265384
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blocklong.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[866329159043746833]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 866329159043746833,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[9993160202154228267]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 9993160202154228267,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 11404559827183001863
+                        },
+                        {
+                            "ComponentId": 6256835002044624033,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 12816628211738025071,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 866329159043746833,
+                            "SortIndex": 3
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

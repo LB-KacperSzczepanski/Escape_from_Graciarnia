@@ -1,0 +1,53 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{6A752D08-CE66-5B79-BD6E-FF4546DA106D}",
+            "name": "fenceLowCorner",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.fenceLowCorner",
+                    "RootNode.fenceLowCorner.fenceLowCorner_2",
+                    "RootNode.fenceLowCorner.fenceLowCorner_1"
+                ],
+                "unselectedNodes": [
+                    {}
+                ]
+            },
+            "MaterialSlots": [
+                "wood",
+                "woodDark"
+            ],
+            "PhysicsMaterials": [
+                "Wood",
+                "Wood"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "fenceLowCorner",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.fenceLowCorner",
+                    "RootNode.fenceLowCorner.fenceLowCorner_1",
+                    "RootNode.fenceLowCorner.fenceLowCorner_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{A0AF5826-6367-5590-BE43-7364EE868201}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

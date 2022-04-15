@@ -1,0 +1,182 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blockcurvehalf",
+        "Components": {
+            "Component_[11422972719859447571]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 11422972719859447571,
+                "Child Entity Order": [
+                    "Entity_[2968428105059]"
+                ]
+            },
+            "Component_[15521794864616340709]": {
+                "$type": "SelectionComponent",
+                "Id": 15521794864616340709
+            },
+            "Component_[17563041681935635949]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 17563041681935635949
+            },
+            "Component_[17736988792400151196]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 17736988792400151196
+            },
+            "Component_[18163278636715363042]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 18163278636715363042,
+                "Parent Entity": ""
+            },
+            "Component_[18376766773161850057]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 18376766773161850057
+            },
+            "Component_[2502607134130903728]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 2502607134130903728
+            },
+            "Component_[3818129545880661382]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 3818129545880661382
+            },
+            "Component_[4118066033584092559]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 4118066033584092559
+            },
+            "Component_[8816928187939998152]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 8816928187939998152
+            },
+            "Component_[9638278655605850991]": {
+                "$type": "EditorLockComponent",
+                "Id": 9638278655605850991
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[2968428105059]": {
+            "Id": "Entity_[2968428105059]",
+            "Name": "blockcurvehalf",
+            "Components": {
+                "Component_[11396234411843957491]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 11396234411843957491
+                },
+                "Component_[12183970435554291325]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 12183970435554291325,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                },
+                                {
+                                    "MaterialId": "{53733840-A095-40C4-B653-C40D233B3BE1}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{2C9D5619-E331-588F-8244-57AACF1328B5}",
+                                    "subId": 3068256034
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockcurvehalf.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{2C9D5619-E331-588F-8244-57AACF1328B5}",
+                                        "subId": 3068256034
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blockcurvehalf.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[1244060391170304672]": {
+                    "$type": "SelectionComponent",
+                    "Id": 1244060391170304672
+                },
+                "Component_[13316980988685932248]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 13316980988685932248
+                },
+                "Component_[13347345183703150314]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 13347345183703150314
+                },
+                "Component_[13996095545348401602]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 13996095545348401602,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{2C9D5619-E331-588F-8244-57AACF1328B5}",
+                                    "subId": 279496298
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockcurvehalf.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[1404434483955716869]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 1404434483955716869,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[14333726831217835097]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 14333726831217835097
+                },
+                "Component_[17204990613606939802]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 17204990613606939802,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 9595694510843526482
+                        },
+                        {
+                            "ComponentId": 13996095545348401602,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 12183970435554291325,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 1404434483955716869,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[18066419727027642668]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 18066419727027642668
+                },
+                "Component_[5029590412347180147]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 5029590412347180147
+                },
+                "Component_[8508097678256152694]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 8508097678256152694
+                },
+                "Component_[9595694510843526482]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 9595694510843526482,
+                    "Parent Entity": "ContainerEntity"
+                }
+            }
+        }
+    }
+}

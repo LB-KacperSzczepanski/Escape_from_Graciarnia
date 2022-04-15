@@ -1,0 +1,48 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{1E93745E-35C6-5D13-A21A-9AE2EE860D17}",
+            "name": "doorOpen",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.doorOpen",
+                    "RootNode.doorOpen.doorOpen_1",
+                    "RootNode.doorOpen.doorOpen_2"
+                ]
+            },
+            "MaterialSlots": [
+                "metal"
+            ],
+            "PhysicsMaterials": [
+                "Metal"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "doorOpen",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.doorOpen",
+                    "RootNode.doorOpen.doorOpen_1",
+                    "RootNode.doorOpen.doorOpen_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{60831E60-EBA7-5505-94FF-47BF7690908E}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

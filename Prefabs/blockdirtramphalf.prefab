@@ -1,0 +1,179 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blockdirtramphalf",
+        "Components": {
+            "Component_[11595532142617467804]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 11595532142617467804
+            },
+            "Component_[14394647687225008722]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 14394647687225008722
+            },
+            "Component_[15580989786764369504]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 15580989786764369504
+            },
+            "Component_[16729039525114466154]": {
+                "$type": "EditorLockComponent",
+                "Id": 16729039525114466154
+            },
+            "Component_[1991566795602690343]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 1991566795602690343,
+                "Parent Entity": ""
+            },
+            "Component_[2895504712865816941]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 2895504712865816941
+            },
+            "Component_[3158511708271829073]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 3158511708271829073,
+                "Child Entity Order": [
+                    "Entity_[5326365150563]"
+                ]
+            },
+            "Component_[3576759080779827610]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 3576759080779827610
+            },
+            "Component_[4767219421789071210]": {
+                "$type": "SelectionComponent",
+                "Id": 4767219421789071210
+            },
+            "Component_[4988795223746733941]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 4988795223746733941
+            },
+            "Component_[9803006241581400363]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 9803006241581400363
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[5326365150563]": {
+            "Id": "Entity_[5326365150563]",
+            "Name": "blockdirtramphalf",
+            "Components": {
+                "Component_[10841507445599377206]": {
+                    "$type": "SelectionComponent",
+                    "Id": 10841507445599377206
+                },
+                "Component_[11248975347051860936]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 11248975347051860936,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{ABAD5DEF-908A-52F0-B584-8E37E73D8617}",
+                                    "subId": 2445262515
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockdirtramphalf.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{ABAD5DEF-908A-52F0-B584-8E37E73D8617}",
+                                        "subId": 2445262515
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blockdirtramphalf.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[12848907671802037824]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 12848907671802037824
+                },
+                "Component_[14501931278072685712]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 14501931278072685712
+                },
+                "Component_[16412097637084265319]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 16412097637084265319
+                },
+                "Component_[1685179518567072863]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 1685179518567072863,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[17343779435959034701]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 17343779435959034701
+                },
+                "Component_[245176984340198548]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 245176984340198548,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{ABAD5DEF-908A-52F0-B584-8E37E73D8617}",
+                                    "subId": 273263158
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockdirtramphalf.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[4395478081293261308]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 4395478081293261308,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[6794986996499416743]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 6794986996499416743,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 4395478081293261308
+                        },
+                        {
+                            "ComponentId": 245176984340198548,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 11248975347051860936,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 1685179518567072863,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[7698230540273870664]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 7698230540273870664
+                },
+                "Component_[856401145869531689]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 856401145869531689
+                },
+                "Component_[8935121633475129258]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 8935121633475129258
+                }
+            }
+        }
+    }
+}

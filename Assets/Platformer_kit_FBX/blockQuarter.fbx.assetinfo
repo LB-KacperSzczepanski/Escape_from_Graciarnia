@@ -1,0 +1,53 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{B0FA23E3-5C07-5F2C-A8A7-0816108882D6}",
+            "name": "blockQuarter",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockQuarter",
+                    "RootNode.blockQuarter.blockQuarter_2",
+                    "RootNode.blockQuarter.blockQuarter_1"
+                ],
+                "unselectedNodes": [
+                    {}
+                ]
+            },
+            "MaterialSlots": [
+                "grass",
+                "dirt"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Grass",
+                "Terrain_Dirt"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockQuarter",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.blockQuarter",
+                    "RootNode.blockQuarter.blockQuarter_1",
+                    "RootNode.blockQuarter.blockQuarter_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{557EEAE1-6DCB-5CDF-BBA8-B577E11618EF}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

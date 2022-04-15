@@ -1,0 +1,69 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{FA5E03E0-0AC1-5DE5-8F3C-6E11E567B11D}",
+            "name": "blockLong",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockLong",
+                    "RootNode.blockLong.blockLong_1",
+                    "RootNode.blockLong.blockLong_2",
+                    "RootNode.blockLong.blockLong_1.transform",
+                    "RootNode.blockLong.blockLong_1.custom_properties",
+                    "RootNode.blockLong.blockLong_1.UV0",
+                    "RootNode.blockLong.blockLong_1.grass",
+                    "RootNode.blockLong.blockLong_1.dirt",
+                    "RootNode.blockLong.blockLong_2.transform",
+                    "RootNode.blockLong.blockLong_2.custom_properties",
+                    "RootNode.blockLong.blockLong_2.UV0",
+                    "RootNode.blockLong.blockLong_2.grass",
+                    "RootNode.blockLong.blockLong_2.dirt"
+                ]
+            },
+            "MaterialSlots": [
+                "grass",
+                "dirt"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Grass",
+                "Terrain_Dirt"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockLong",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockLong",
+                    "RootNode.blockLong.blockLong_1",
+                    "RootNode.blockLong.blockLong_2",
+                    "RootNode.blockLong.blockLong_1.transform",
+                    "RootNode.blockLong.blockLong_1.custom_properties",
+                    "RootNode.blockLong.blockLong_1.UV0",
+                    "RootNode.blockLong.blockLong_1.grass",
+                    "RootNode.blockLong.blockLong_1.dirt",
+                    "RootNode.blockLong.blockLong_2.transform",
+                    "RootNode.blockLong.blockLong_2.custom_properties",
+                    "RootNode.blockLong.blockLong_2.UV0",
+                    "RootNode.blockLong.blockLong_2.grass",
+                    "RootNode.blockLong.blockLong_2.dirt"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{6174F118-D447-54D4-A635-7B9806578B73}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

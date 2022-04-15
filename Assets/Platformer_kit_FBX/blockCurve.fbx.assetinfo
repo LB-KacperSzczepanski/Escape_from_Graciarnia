@@ -1,0 +1,69 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{D917A7AD-762C-5528-8BBF-8EA801C6AA74}",
+            "name": "blockCurve",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCurve",
+                    "RootNode.blockCurve.blockCurve_1",
+                    "RootNode.blockCurve.blockCurve_2",
+                    "RootNode.blockCurve.blockCurve_1.transform",
+                    "RootNode.blockCurve.blockCurve_1.custom_properties",
+                    "RootNode.blockCurve.blockCurve_1.UV0",
+                    "RootNode.blockCurve.blockCurve_1.grass",
+                    "RootNode.blockCurve.blockCurve_1.dirt",
+                    "RootNode.blockCurve.blockCurve_2.transform",
+                    "RootNode.blockCurve.blockCurve_2.custom_properties",
+                    "RootNode.blockCurve.blockCurve_2.UV0",
+                    "RootNode.blockCurve.blockCurve_2.grass",
+                    "RootNode.blockCurve.blockCurve_2.dirt"
+                ]
+            },
+            "MaterialSlots": [
+                "grass",
+                "dirt"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Grass",
+                "Terrain_Dirt"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockCurve",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCurve",
+                    "RootNode.blockCurve.blockCurve_1",
+                    "RootNode.blockCurve.blockCurve_2",
+                    "RootNode.blockCurve.blockCurve_1.transform",
+                    "RootNode.blockCurve.blockCurve_1.custom_properties",
+                    "RootNode.blockCurve.blockCurve_1.UV0",
+                    "RootNode.blockCurve.blockCurve_1.grass",
+                    "RootNode.blockCurve.blockCurve_1.dirt",
+                    "RootNode.blockCurve.blockCurve_2.transform",
+                    "RootNode.blockCurve.blockCurve_2.custom_properties",
+                    "RootNode.blockCurve.blockCurve_2.UV0",
+                    "RootNode.blockCurve.blockCurve_2.grass",
+                    "RootNode.blockCurve.blockCurve_2.dirt"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{8B5F4944-6247-5F3E-AAD3-D80339F35026}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

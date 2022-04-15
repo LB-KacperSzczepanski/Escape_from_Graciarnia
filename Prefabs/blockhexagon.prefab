@@ -1,0 +1,182 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blockhexagon",
+        "Components": {
+            "Component_[12530632685218309553]": {
+                "$type": "SelectionComponent",
+                "Id": 12530632685218309553
+            },
+            "Component_[13104219675847730728]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 13104219675847730728
+            },
+            "Component_[13420918216401971055]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 13420918216401971055
+            },
+            "Component_[13672769981998892055]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 13672769981998892055,
+                "Parent Entity": ""
+            },
+            "Component_[15605939534425145136]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 15605939534425145136
+            },
+            "Component_[16225153168793594244]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 16225153168793594244
+            },
+            "Component_[16293999701169854113]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 16293999701169854113
+            },
+            "Component_[17453861346140917383]": {
+                "$type": "EditorLockComponent",
+                "Id": 17453861346140917383
+            },
+            "Component_[17818004765756305802]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 17818004765756305802
+            },
+            "Component_[3667291800749894554]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 3667291800749894554,
+                "Child Entity Order": [
+                    "Entity_[6421581811043]"
+                ]
+            },
+            "Component_[7971515411814697864]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 7971515411814697864
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[6421581811043]": {
+            "Id": "Entity_[6421581811043]",
+            "Name": "blockhexagon",
+            "Components": {
+                "Component_[10782243249364726153]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 10782243249364726153
+                },
+                "Component_[11647387526640207065]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 11647387526640207065
+                },
+                "Component_[12075772110987243692]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 12075772110987243692,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{4F1CCB81-5F96-50D6-AAAD-75DF5FF90910}",
+                                    "subId": 274608103
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockhexagon.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[12079663077359950561]": {
+                    "$type": "SelectionComponent",
+                    "Id": 12079663077359950561
+                },
+                "Component_[13399856985468406055]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 13399856985468406055,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[13469002446845665478]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 13469002446845665478
+                },
+                "Component_[16338955974752993943]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 16338955974752993943
+                },
+                "Component_[18241609106224933463]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 18241609106224933463
+                },
+                "Component_[1970270772401604069]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 1970270772401604069,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[2326506443412559342]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 2326506443412559342,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{53733840-A095-40C4-B653-C40D233B3BE1}"
+                                },
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{4F1CCB81-5F96-50D6-AAAD-75DF5FF90910}",
+                                    "subId": 3603256372
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockhexagon.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{4F1CCB81-5F96-50D6-AAAD-75DF5FF90910}",
+                                        "subId": 3603256372
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blockhexagon.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[3895346419906695069]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 3895346419906695069,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 13399856985468406055
+                        },
+                        {
+                            "ComponentId": 12075772110987243692,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 2326506443412559342,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 1970270772401604069,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[4948812054974032994]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 4948812054974032994
+                },
+                "Component_[9086178041697036682]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 9086178041697036682
+                }
+            }
+        }
+    }
+}

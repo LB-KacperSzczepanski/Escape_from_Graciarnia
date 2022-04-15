@@ -1,0 +1,182 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blockcliffcorner",
+        "Components": {
+            "Component_[11944821706901414527]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 11944821706901414527
+            },
+            "Component_[15691572632474344051]": {
+                "$type": "SelectionComponent",
+                "Id": 15691572632474344051
+            },
+            "Component_[2163720027069209076]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 2163720027069209076
+            },
+            "Component_[2881272921252496285]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 2881272921252496285,
+                "Child Entity Order": [
+                    "Entity_[2435852160355]"
+                ]
+            },
+            "Component_[451727357301833756]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 451727357301833756
+            },
+            "Component_[5490550785386134041]": {
+                "$type": "EditorLockComponent",
+                "Id": 5490550785386134041
+            },
+            "Component_[6371485285395643683]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 6371485285395643683
+            },
+            "Component_[6708878834420131922]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 6708878834420131922
+            },
+            "Component_[853018519442407980]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 853018519442407980,
+                "Parent Entity": ""
+            },
+            "Component_[8934471308834937598]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 8934471308834937598
+            },
+            "Component_[8973237660470832702]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 8973237660470832702
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[2435852160355]": {
+            "Id": "Entity_[2435852160355]",
+            "Name": "blockcliffcorner",
+            "Components": {
+                "Component_[10966748614014071393]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 10966748614014071393
+                },
+                "Component_[1307216823248918267]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 1307216823248918267
+                },
+                "Component_[15649149279741746229]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 15649149279741746229,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                },
+                                {
+                                    "MaterialId": "{53733840-A095-40C4-B653-C40D233B3BE1}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{06E323C3-B898-5BF2-A818-B1F5FD3F486A}",
+                                    "subId": 1689231098
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockcliffcorner.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{06E323C3-B898-5BF2-A818-B1F5FD3F486A}",
+                                        "subId": 1689231098
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blockcliffcorner.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[15679105994844748834]": {
+                    "$type": "SelectionComponent",
+                    "Id": 15679105994844748834
+                },
+                "Component_[16683928662025014937]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 16683928662025014937
+                },
+                "Component_[2992750071183390726]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2992750071183390726,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[3701243547022237191]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 3701243547022237191
+                },
+                "Component_[3879597749990847193]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 3879597749990847193,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2992750071183390726
+                        },
+                        {
+                            "ComponentId": 6262075609807905298,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 15649149279741746229,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 8475445282430783939,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[5783753718824335400]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 5783753718824335400
+                },
+                "Component_[6262075609807905298]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 6262075609807905298,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{06E323C3-B898-5BF2-A818-B1F5FD3F486A}",
+                                    "subId": 269624707
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockcliffcorner.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[6986609709329899964]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 6986609709329899964
+                },
+                "Component_[8475445282430783939]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 8475445282430783939,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[9229059999126037948]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 9229059999126037948
+                }
+            }
+        }
+    }
+}

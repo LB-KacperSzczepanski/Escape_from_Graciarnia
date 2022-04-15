@@ -1,0 +1,69 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{10EFBDCC-BD04-5103-B464-3F95362EAD7F}",
+            "name": "blockCliffCorner",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCliffCorner",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.transform",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.custom_properties",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.UV0",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.dirt",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.grass",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.transform",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.custom_properties",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.UV0",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.dirt",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.grass"
+                ]
+            },
+            "MaterialSlots": [
+                "dirt",
+                "grass"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Dirt",
+                "Terrain_Grass"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockCliffCorner",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCliffCorner",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.transform",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.custom_properties",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.UV0",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.dirt",
+                    "RootNode.blockCliffCorner.blockCliffCorner_1.grass",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.transform",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.custom_properties",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.UV0",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.dirt",
+                    "RootNode.blockCliffCorner.blockCliffCorner_2.grass"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{DDF4BAAC-CB3C-52AC-858F-3ED78095E14A}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blockend",
+        "Components": {
+            "Component_[12100207726637065975]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 12100207726637065975
+            },
+            "Component_[14876581651061248174]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 14876581651061248174
+            },
+            "Component_[16555266165764814382]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 16555266165764814382
+            },
+            "Component_[16982188963705789006]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 16982188963705789006
+            },
+            "Component_[18313923138316988400]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 18313923138316988400
+            },
+            "Component_[5203657614367471841]": {
+                "$type": "EditorLockComponent",
+                "Id": 5203657614367471841
+            },
+            "Component_[6639489745446639503]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 6639489745446639503,
+                "Child Entity Order": [
+                    "Entity_[5674257501539]"
+                ]
+            },
+            "Component_[8232571934017063024]": {
+                "$type": "SelectionComponent",
+                "Id": 8232571934017063024
+            },
+            "Component_[8381882042418459662]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 8381882042418459662,
+                "Parent Entity": ""
+            },
+            "Component_[8516103537246822021]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 8516103537246822021
+            },
+            "Component_[8640320830791746562]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 8640320830791746562
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[5674257501539]": {
+            "Id": "Entity_[5674257501539]",
+            "Name": "blockend",
+            "Components": {
+                "Component_[10076550185386678386]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 10076550185386678386
+                },
+                "Component_[13203563629727433754]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 13203563629727433754
+                },
+                "Component_[14867287975383431977]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 14867287975383431977
+                },
+                "Component_[16098522075290628698]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 16098522075290628698
+                },
+                "Component_[2627353591304342684]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 2627353591304342684,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{53733840-A095-40C4-B653-C40D233B3BE1}"
+                                },
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{C6FC9B7B-7C80-5BBA-BA27-EFD97F610CC5}",
+                                    "subId": 4031077026
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockend.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{C6FC9B7B-7C80-5BBA-BA27-EFD97F610CC5}",
+                                        "subId": 4031077026
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blockend.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[3149146721729822164]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 3149146721729822164,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[3507579400944197447]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 3507579400944197447,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 3149146721729822164
+                        },
+                        {
+                            "ComponentId": 534923310471409611,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 2627353591304342684,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 3798074928569323282,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[3798074928569323282]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 3798074928569323282,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[4040590765996688899]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 4040590765996688899
+                },
+                "Component_[4821971034594578359]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 4821971034594578359
+                },
+                "Component_[4916703158616474325]": {
+                    "$type": "SelectionComponent",
+                    "Id": 4916703158616474325
+                },
+                "Component_[5172579802544735004]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 5172579802544735004
+                },
+                "Component_[534923310471409611]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 534923310471409611,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{C6FC9B7B-7C80-5BBA-BA27-EFD97F610CC5}",
+                                    "subId": 273708173
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockend.azmodel"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

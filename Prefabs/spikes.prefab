@@ -1,0 +1,179 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "spikes",
+        "Components": {
+            "Component_[10921240485302716152]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 10921240485302716152
+            },
+            "Component_[12240695658111127722]": {
+                "$type": "EditorLockComponent",
+                "Id": 12240695658111127722
+            },
+            "Component_[14369070937536744256]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 14369070937536744256
+            },
+            "Component_[14373425579067253698]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 14373425579067253698
+            },
+            "Component_[15854087107231271694]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 15854087107231271694
+            },
+            "Component_[16914820340210458234]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 16914820340210458234
+            },
+            "Component_[17824179470960001668]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 17824179470960001668
+            },
+            "Component_[2437098013092092892]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 2437098013092092892,
+                "Child Entity Order": [
+                    "Entity_[66276246048099]"
+                ]
+            },
+            "Component_[2577683868976853142]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 2577683868976853142
+            },
+            "Component_[7524495943291489861]": {
+                "$type": "SelectionComponent",
+                "Id": 7524495943291489861
+            },
+            "Component_[9121087648164856100]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 9121087648164856100,
+                "Parent Entity": ""
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[66276246048099]": {
+            "Id": "Entity_[66276246048099]",
+            "Name": "spikes",
+            "Components": {
+                "Component_[10162118916332615465]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 10162118916332615465,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{76CDC778-ACA9-449F-BFD7-C361F89F3207}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{24E1A391-18B6-51CF-9DEF-6DF6D1AAA5AA}",
+                                    "subId": 578240708
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/spikes.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{24E1A391-18B6-51CF-9DEF-6DF6D1AAA5AA}",
+                                        "subId": 578240708
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/spikes.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[10332474024718235615]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 10332474024718235615,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 7500217235294588593
+                        },
+                        {
+                            "ComponentId": 13210526404205006443,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 15588179625111862902,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 10162118916332615465,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[1085656740770546331]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 1085656740770546331
+                },
+                "Component_[11156850793679370453]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 11156850793679370453
+                },
+                "Component_[12663411781567463454]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 12663411781567463454
+                },
+                "Component_[13210526404205006443]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 13210526404205006443,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{24E1A391-18B6-51CF-9DEF-6DF6D1AAA5AA}",
+                                    "subId": 277617967
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/spikes.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[13857544322287007925]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 13857544322287007925
+                },
+                "Component_[15588179625111862902]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 15588179625111862902,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[1681213041438532358]": {
+                    "$type": "SelectionComponent",
+                    "Id": 1681213041438532358
+                },
+                "Component_[2740368089139813273]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 2740368089139813273
+                },
+                "Component_[7500217235294588593]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 7500217235294588593,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[8461496409461970062]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 8461496409461970062
+                },
+                "Component_[9092559176441069861]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 9092559176441069861
+                }
+            }
+        }
+    }
+}

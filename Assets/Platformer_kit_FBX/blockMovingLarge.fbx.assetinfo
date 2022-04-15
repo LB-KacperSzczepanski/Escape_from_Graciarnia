@@ -1,0 +1,55 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{0A1E2DC1-361E-5C55-B12C-92A8F4B77812}",
+            "name": "blockMovingLarge",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockMovingLarge",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1"
+                ],
+                "unselectedNodes": [
+                    {}
+                ]
+            },
+            "MaterialSlots": [
+                "gold",
+                "wood",
+                "_defaultMat"
+            ],
+            "PhysicsMaterials": [
+                "Metal",
+                "Wood",
+                "<Default Physics Material>"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockMovingLarge",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.blockMovingLarge",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{DE7B3941-790E-5959-9341-3512C15C2386}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

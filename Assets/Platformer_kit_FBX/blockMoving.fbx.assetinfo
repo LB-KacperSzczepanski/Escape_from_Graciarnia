@@ -1,0 +1,75 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{E5D198C5-5D69-59D3-BC82-F13A4AE21C40}",
+            "name": "blockMoving",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockMoving",
+                    "RootNode.blockMoving.blockMoving_1",
+                    "RootNode.blockMoving.blockMoving_2",
+                    "RootNode.blockMoving.blockMoving_1.transform",
+                    "RootNode.blockMoving.blockMoving_1.custom_properties",
+                    "RootNode.blockMoving.blockMoving_1.UV0",
+                    "RootNode.blockMoving.blockMoving_1.gold",
+                    "RootNode.blockMoving.blockMoving_1.wood",
+                    "RootNode.blockMoving.blockMoving_1._defaultMat",
+                    "RootNode.blockMoving.blockMoving_2.transform",
+                    "RootNode.blockMoving.blockMoving_2.custom_properties",
+                    "RootNode.blockMoving.blockMoving_2.UV0",
+                    "RootNode.blockMoving.blockMoving_2.gold",
+                    "RootNode.blockMoving.blockMoving_2.wood",
+                    "RootNode.blockMoving.blockMoving_2._defaultMat"
+                ]
+            },
+            "MaterialSlots": [
+                "gold",
+                "wood",
+                "_defaultMat"
+            ],
+            "PhysicsMaterials": [
+                "Metal",
+                "Wood",
+                "Concrete"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockMoving",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockMoving",
+                    "RootNode.blockMoving.blockMoving_1",
+                    "RootNode.blockMoving.blockMoving_2",
+                    "RootNode.blockMoving.blockMoving_1.transform",
+                    "RootNode.blockMoving.blockMoving_1.custom_properties",
+                    "RootNode.blockMoving.blockMoving_1.UV0",
+                    "RootNode.blockMoving.blockMoving_1.gold",
+                    "RootNode.blockMoving.blockMoving_1.wood",
+                    "RootNode.blockMoving.blockMoving_1._defaultMat",
+                    "RootNode.blockMoving.blockMoving_2.transform",
+                    "RootNode.blockMoving.blockMoving_2.custom_properties",
+                    "RootNode.blockMoving.blockMoving_2.UV0",
+                    "RootNode.blockMoving.blockMoving_2.gold",
+                    "RootNode.blockMoving.blockMoving_2.wood",
+                    "RootNode.blockMoving.blockMoving_2._defaultMat"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{4376A239-8CC6-5770-8F6A-68B6708C39B4}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

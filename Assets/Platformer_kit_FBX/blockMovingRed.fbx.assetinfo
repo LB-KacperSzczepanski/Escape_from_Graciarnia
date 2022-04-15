@@ -1,0 +1,53 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{902CC817-B998-5149-8401-2799BF9EC847}",
+            "name": "blockMovingRed",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.blockMovingRed",
+                    "RootNode.blockMovingRed.blockMovingRed_2",
+                    "RootNode.blockMovingRed.blockMovingRed_1",
+                    "RootNode"
+                ],
+                "unselectedNodes": [
+                    {}
+                ]
+            },
+            "MaterialSlots": [
+                "gold",
+                "heart"
+            ],
+            "PhysicsMaterials": [
+                "Metal",
+                "Plastic"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockMovingRed",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.blockMovingRed",
+                    "RootNode.blockMovingRed.blockMovingRed_1",
+                    "RootNode.blockMovingRed.blockMovingRed_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{70C16B26-4B1D-51B9-B51E-7B78BEBBF82A}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

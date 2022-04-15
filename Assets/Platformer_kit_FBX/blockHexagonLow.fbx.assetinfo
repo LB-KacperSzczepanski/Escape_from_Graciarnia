@@ -1,0 +1,69 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{5B8B2296-DCCD-5B52-91E9-6FCB9539328F}",
+            "name": "blockHexagonLow",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockHexagonLow",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.transform",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.custom_properties",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.UV0",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.dirt",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.grass",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.transform",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.custom_properties",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.UV0",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.dirt",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.grass"
+                ]
+            },
+            "MaterialSlots": [
+                "dirt",
+                "grass"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Dirt",
+                "Terrain_Grass"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockHexagonLow",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockHexagonLow",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.transform",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.custom_properties",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.UV0",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.dirt",
+                    "RootNode.blockHexagonLow.blockHexagonLow_1.grass",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.transform",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.custom_properties",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.UV0",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.dirt",
+                    "RootNode.blockHexagonLow.blockHexagonLow_2.grass"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{27BD724E-0D9A-5324-8784-92754F6C0965}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{59B6A15B-0F82-59EE-8190-A9B85035A9EA}",
+            "name": "blockDirtRamp",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockDirtRamp",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1.transform",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1.custom_properties",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1.map1",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1.dirt",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2.transform",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2.custom_properties",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2.map1",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2.dirt"
+                ]
+            },
+            "MaterialSlots": [
+                "dirt"
+            ],
+            "PhysicsMaterials": [
+                "Terrain_Dirt"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "blockDirtRamp",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockDirtRamp",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1.transform",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1.custom_properties",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1.map1",
+                    "RootNode.blockDirtRamp.blockDirtRamp_1.dirt",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2.transform",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2.custom_properties",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2.map1",
+                    "RootNode.blockDirtRamp.blockDirtRamp_2.dirt"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{4A5FB2C1-0593-50AF-9E27-FD6590D01BC8}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

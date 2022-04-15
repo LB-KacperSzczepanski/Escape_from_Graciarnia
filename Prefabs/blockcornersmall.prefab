@@ -1,0 +1,182 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "blockcornersmall",
+        "Components": {
+            "Component_[11913070234462770242]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 11913070234462770242
+            },
+            "Component_[1626834775443449533]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 1626834775443449533,
+                "Child Entity Order": [
+                    "Entity_[2599060917603]"
+                ]
+            },
+            "Component_[17856916489654344418]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 17856916489654344418
+            },
+            "Component_[2402516782594011229]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 2402516782594011229
+            },
+            "Component_[3241571241448724304]": {
+                "$type": "EditorLockComponent",
+                "Id": 3241571241448724304
+            },
+            "Component_[4784837445785282076]": {
+                "$type": "SelectionComponent",
+                "Id": 4784837445785282076
+            },
+            "Component_[558081522783432757]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 558081522783432757
+            },
+            "Component_[6447627520634944653]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 6447627520634944653
+            },
+            "Component_[7307070282342636898]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 7307070282342636898
+            },
+            "Component_[9220972727358625762]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 9220972727358625762,
+                "Parent Entity": ""
+            },
+            "Component_[9726731420574866080]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 9726731420574866080
+            }
+        }
+    },
+    "Entities": {
+        "Entity_[2599060917603]": {
+            "Id": "Entity_[2599060917603]",
+            "Name": "blockcornersmall",
+            "Components": {
+                "Component_[11525203053228607225]": {
+                    "$type": "EditorOnlyEntityComponent",
+                    "Id": 11525203053228607225
+                },
+                "Component_[12932382129533050942]": {
+                    "$type": "EditorPendingCompositionComponent",
+                    "Id": 12932382129533050942
+                },
+                "Component_[13971637986015159538]": {
+                    "$type": "SelectionComponent",
+                    "Id": 13971637986015159538
+                },
+                "Component_[16006538370578874733]": {
+                    "$type": "EditorDisabledCompositionComponent",
+                    "Id": 16006538370578874733
+                },
+                "Component_[16861080463957370153]": {
+                    "$type": "EditorColliderComponent",
+                    "Id": 16861080463957370153,
+                    "ColliderConfiguration": {
+                        "MaterialSelection": {
+                            "MaterialIds": [
+                                {
+                                    "MaterialId": "{53733840-A095-40C4-B653-C40D233B3BE1}"
+                                },
+                                {
+                                    "MaterialId": "{303C5A49-22F2-45A8-B24C-9F2C3CA13402}"
+                                }
+                            ]
+                        }
+                    },
+                    "ShapeConfiguration": {
+                        "PhysicsAsset": {
+                            "Asset": {
+                                "assetId": {
+                                    "guid": "{2E33E3AC-6BD5-5CD6-BEE5-F5A640B8BC4F}",
+                                    "subId": 2770422671
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockcornersmall.pxmesh"
+                            },
+                            "Configuration": {
+                                "PhysicsAsset": {
+                                    "assetId": {
+                                        "guid": "{2E33E3AC-6BD5-5CD6-BEE5-F5A640B8BC4F}",
+                                        "subId": 2770422671
+                                    },
+                                    "loadBehavior": "QueueLoad",
+                                    "assetHint": "assets/platformer_kit_fbx/blockcornersmall.pxmesh"
+                                }
+                            }
+                        }
+                    }
+                },
+                "Component_[16872039478435573017]": {
+                    "$type": "EditorRigidBodyComponent",
+                    "Id": 16872039478435573017,
+                    "Configuration": {
+                        "entityId": "",
+                        "Kinematic": true
+                    }
+                },
+                "Component_[2032910625026770094]": {
+                    "$type": "EditorInspectorComponent",
+                    "Id": 2032910625026770094,
+                    "ComponentOrderEntryArray": [
+                        {
+                            "ComponentId": 2919857016068395568
+                        },
+                        {
+                            "ComponentId": 6848709741718430582,
+                            "SortIndex": 1
+                        },
+                        {
+                            "ComponentId": 16861080463957370153,
+                            "SortIndex": 2
+                        },
+                        {
+                            "ComponentId": 16872039478435573017,
+                            "SortIndex": 3
+                        }
+                    ]
+                },
+                "Component_[2919857016068395568]": {
+                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                    "Id": 2919857016068395568,
+                    "Parent Entity": "ContainerEntity"
+                },
+                "Component_[3939023129578103063]": {
+                    "$type": "EditorVisibilityComponent",
+                    "Id": 3939023129578103063
+                },
+                "Component_[4247909425953235007]": {
+                    "$type": "EditorLockComponent",
+                    "Id": 4247909425953235007
+                },
+                "Component_[5422937756472876946]": {
+                    "$type": "EditorEntityIconComponent",
+                    "Id": 5422937756472876946
+                },
+                "Component_[6848709741718430582]": {
+                    "$type": "AZ::Render::EditorMeshComponent",
+                    "Id": 6848709741718430582,
+                    "Controller": {
+                        "Configuration": {
+                            "ModelAsset": {
+                                "assetId": {
+                                    "guid": "{2E33E3AC-6BD5-5CD6-BEE5-F5A640B8BC4F}",
+                                    "subId": 281833063
+                                },
+                                "assetHint": "assets/platformer_kit_fbx/blockcornersmall.azmodel"
+                            }
+                        }
+                    }
+                },
+                "Component_[8076487130839569403]": {
+                    "$type": "EditorEntitySortComponent",
+                    "Id": 8076487130839569403
+                }
+            }
+        }
+    }
+}

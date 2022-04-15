@@ -1,0 +1,50 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{F8825EA6-2442-5744-B4BF-58948AD50B67}",
+            "name": "crateItem",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode",
+                    "RootNode.crateItem",
+                    "RootNode.crateItem.crateItem_1",
+                    "RootNode.crateItem.crateItem_2"
+                ]
+            },
+            "MaterialSlots": [
+                "gold",
+                "wood"
+            ],
+            "PhysicsMaterials": [
+                "Metal",
+                "Wood"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "crateItem",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.crateItem",
+                    "RootNode.crateItem.crateItem_1",
+                    "RootNode.crateItem.crateItem_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{042313C9-ECAC-56C3-B99A-88A6A827398F}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}
