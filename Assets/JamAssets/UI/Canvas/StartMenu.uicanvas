@@ -201,7 +201,7 @@
 									<Class name="AZStd::string" field="RenderTargetName" value="" type="{03AAAB3F-5C47-5A66-9EBC-D5FA4DB353C9}"/>
 									<Class name="bool" field="IsRenderTargetSRGB" value="false" type="{A0CA880C-AFE4-43CB-926C-59AC48496112}"/>
 									<Class name="Color" field="Color" value="0.0000000 0.0000000 0.0000000 1.0000000" type="{7894072A-9050-4F0F-901B-34B1A0D29417}"/>
-									<Class name="float" field="Alpha" value="0.5000000" type="{EA2C3E90-AFBE-44D4-A90D-FAAF79BAF93D}"/>
+									<Class name="float" field="Alpha" value="0.8000000" type="{EA2C3E90-AFBE-44D4-A90D-FAAF79BAF93D}"/>
 									<Class name="int" field="ImageType" value="0" type="{72039442-EB38-4D42-A1AD-CB68F7E0EEF6}"/>
 									<Class name="bool" field="FillCenter" value="true" type="{A0CA880C-AFE4-43CB-926C-59AC48496112}"/>
 									<Class name="bool" field="StretchSliced" value="true" type="{A0CA880C-AFE4-43CB-926C-59AC48496112}"/>
@@ -358,7 +358,7 @@
 									</Class>
 									<Class name="SourceHandle" field="sourceHandle" version="1" type="{65855A98-AE2F-427F-BFC8-69D45265E312}">
 										<Class name="AZ::Uuid" field="id" value="{50E6510E-DACA-52D2-8A85-4A11E6C7B99E}" type="{E152C105-A133-4D03-BBF8-3D4B2FBA3E2A}"/>
-										<Class name="AZ::IO::Path" field="path" value="Escape_from_Graciarnia/Assets/UI/Scripts/cursor.scriptcanvas" type="{88E0A40F-3085-4CAB-8B11-EF5A2659C71A}"/>
+										<Class name="AZ::IO::Path" field="path" value="" type="{88E0A40F-3085-4CAB-8B11-EF5A2659C71A}"/>
 									</Class>
 								</Class>
 							</Class>
