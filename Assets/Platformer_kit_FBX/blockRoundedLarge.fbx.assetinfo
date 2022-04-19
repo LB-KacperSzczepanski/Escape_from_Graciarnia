@@ -9,16 +9,25 @@
                     "RootNode",
                     "RootNode.blockRoundedLarge",
                     "RootNode.blockRoundedLarge.blockRoundedLarge_1",
-                    "RootNode.blockRoundedLarge.blockRoundedLarge_2"
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.transform",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.custom_properties",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.UV0",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.grass",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.dirt",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.transform",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.custom_properties",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.UV0",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.grass",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.dirt"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "grass",
-                "dirt"
+                "grass"
             ],
             "PhysicsMaterials": [
-                "Terrain_Grass",
-                "Terrain_Dirt"
+                "Terrain_Grass"
             ]
         },
         {
@@ -26,11 +35,20 @@
             "name": "blockRoundedLarge",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.blockRoundedLarge",
                     "RootNode.blockRoundedLarge.blockRoundedLarge_1",
-                    "RootNode.blockRoundedLarge.blockRoundedLarge_2"
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.transform",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.custom_properties",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.UV0",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.grass",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_1.dirt",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.transform",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.custom_properties",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.UV0",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.grass",
+                    "RootNode.blockRoundedLarge.blockRoundedLarge_2.dirt"
                 ]
             },
             "rules": {

@@ -6,22 +6,28 @@
             "name": "blockMovingRed",
             "NodeSelectionList": {
                 "selectedNodes": [
+                    "RootNode",
                     "RootNode.blockMovingRed",
-                    "RootNode.blockMovingRed.blockMovingRed_2",
                     "RootNode.blockMovingRed.blockMovingRed_1",
-                    "RootNode"
-                ],
-                "unselectedNodes": [
-                    {}
+                    "RootNode.blockMovingRed.blockMovingRed_2",
+                    "RootNode.blockMovingRed.blockMovingRed_1.transform",
+                    "RootNode.blockMovingRed.blockMovingRed_1.custom_properties",
+                    "RootNode.blockMovingRed.blockMovingRed_1.UV0",
+                    "RootNode.blockMovingRed.blockMovingRed_1.gold",
+                    "RootNode.blockMovingRed.blockMovingRed_1.heart",
+                    "RootNode.blockMovingRed.blockMovingRed_2.transform",
+                    "RootNode.blockMovingRed.blockMovingRed_2.custom_properties",
+                    "RootNode.blockMovingRed.blockMovingRed_2.UV0",
+                    "RootNode.blockMovingRed.blockMovingRed_2.gold",
+                    "RootNode.blockMovingRed.blockMovingRed_2.heart"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "gold",
-                "heart"
+                "gold"
             ],
             "PhysicsMaterials": [
-                "Metal",
-                "Plastic"
+                "Metal"
             ]
         },
         {
@@ -29,11 +35,20 @@
             "name": "blockMovingRed",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.blockMovingRed",
                     "RootNode.blockMovingRed.blockMovingRed_1",
-                    "RootNode.blockMovingRed.blockMovingRed_2"
+                    "RootNode.blockMovingRed.blockMovingRed_2",
+                    "RootNode.blockMovingRed.blockMovingRed_1.transform",
+                    "RootNode.blockMovingRed.blockMovingRed_1.custom_properties",
+                    "RootNode.blockMovingRed.blockMovingRed_1.UV0",
+                    "RootNode.blockMovingRed.blockMovingRed_1.gold",
+                    "RootNode.blockMovingRed.blockMovingRed_1.heart",
+                    "RootNode.blockMovingRed.blockMovingRed_2.transform",
+                    "RootNode.blockMovingRed.blockMovingRed_2.custom_properties",
+                    "RootNode.blockMovingRed.blockMovingRed_2.UV0",
+                    "RootNode.blockMovingRed.blockMovingRed_2.gold",
+                    "RootNode.blockMovingRed.blockMovingRed_2.heart"
                 ]
             },
             "rules": {

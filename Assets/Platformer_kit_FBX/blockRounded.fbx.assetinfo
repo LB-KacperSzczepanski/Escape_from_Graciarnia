@@ -9,16 +9,25 @@
                     "RootNode",
                     "RootNode.blockRounded",
                     "RootNode.blockRounded.blockRounded_1",
-                    "RootNode.blockRounded.blockRounded_2"
+                    "RootNode.blockRounded.blockRounded_2",
+                    "RootNode.blockRounded.blockRounded_1.transform",
+                    "RootNode.blockRounded.blockRounded_1.custom_properties",
+                    "RootNode.blockRounded.blockRounded_1.UV0",
+                    "RootNode.blockRounded.blockRounded_1.grass",
+                    "RootNode.blockRounded.blockRounded_1.dirt",
+                    "RootNode.blockRounded.blockRounded_2.transform",
+                    "RootNode.blockRounded.blockRounded_2.custom_properties",
+                    "RootNode.blockRounded.blockRounded_2.UV0",
+                    "RootNode.blockRounded.blockRounded_2.grass",
+                    "RootNode.blockRounded.blockRounded_2.dirt"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "grass",
-                "dirt"
+                "grass"
             ],
             "PhysicsMaterials": [
-                "Terrain_Grass",
-                "Terrain_Dirt"
+                "Terrain_Grass"
             ]
         },
         {
@@ -26,11 +35,20 @@
             "name": "blockRounded",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.blockRounded",
                     "RootNode.blockRounded.blockRounded_1",
-                    "RootNode.blockRounded.blockRounded_2"
+                    "RootNode.blockRounded.blockRounded_2",
+                    "RootNode.blockRounded.blockRounded_1.transform",
+                    "RootNode.blockRounded.blockRounded_1.custom_properties",
+                    "RootNode.blockRounded.blockRounded_1.UV0",
+                    "RootNode.blockRounded.blockRounded_1.grass",
+                    "RootNode.blockRounded.blockRounded_1.dirt",
+                    "RootNode.blockRounded.blockRounded_2.transform",
+                    "RootNode.blockRounded.blockRounded_2.custom_properties",
+                    "RootNode.blockRounded.blockRounded_2.UV0",
+                    "RootNode.blockRounded.blockRounded_2.grass",
+                    "RootNode.blockRounded.blockRounded_2.dirt"
                 ]
             },
             "rules": {

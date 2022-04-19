@@ -22,13 +22,12 @@
                     "RootNode.blockCliffCorner.blockCliffCorner_2.grass"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "dirt",
-                "grass"
+                "dirt"
             ],
             "PhysicsMaterials": [
-                "Terrain_Dirt",
-                "Terrain_Grass"
+                "Terrain_Dirt"
             ]
         },
         {

@@ -22,13 +22,12 @@
                     "RootNode.blockCurve.blockCurve_2.dirt"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "grass",
-                "dirt"
+                "grass"
             ],
             "PhysicsMaterials": [
-                "Terrain_Grass",
-                "Terrain_Dirt"
+                "Terrain_Grass"
             ]
         },
         {

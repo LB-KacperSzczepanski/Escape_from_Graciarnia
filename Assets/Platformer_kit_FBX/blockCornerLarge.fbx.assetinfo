@@ -6,22 +6,28 @@
             "name": "blockCornerLarge",
             "NodeSelectionList": {
                 "selectedNodes": [
+                    "RootNode",
+                    "RootNode.blockCornerLarge",
                     "RootNode.blockCornerLarge.blockCornerLarge_1",
                     "RootNode.blockCornerLarge.blockCornerLarge_2",
-                    "RootNode",
-                    "RootNode.blockCornerLarge"
-                ],
-                "unselectedNodes": [
-                    {}
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.transform",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.custom_properties",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.UV0",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.grass",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.dirt",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.transform",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.custom_properties",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.UV0",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.grass",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.dirt"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "grass",
-                "dirt"
+                "grass"
             ],
             "PhysicsMaterials": [
-                "Terrain_Grass",
-                "Terrain_Dirt"
+                "Terrain_Grass"
             ]
         },
         {
@@ -29,11 +35,20 @@
             "name": "blockCornerLarge",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.blockCornerLarge",
                     "RootNode.blockCornerLarge.blockCornerLarge_1",
-                    "RootNode.blockCornerLarge.blockCornerLarge_2"
+                    "RootNode.blockCornerLarge.blockCornerLarge_2",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.transform",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.custom_properties",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.UV0",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.grass",
+                    "RootNode.blockCornerLarge.blockCornerLarge_1.dirt",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.transform",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.custom_properties",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.UV0",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.grass",
+                    "RootNode.blockCornerLarge.blockCornerLarge_2.dirt"
                 ]
             },
             "rules": {

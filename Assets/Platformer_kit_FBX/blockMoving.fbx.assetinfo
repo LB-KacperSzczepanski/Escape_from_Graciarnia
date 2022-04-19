@@ -24,15 +24,12 @@
                     "RootNode.blockMoving.blockMoving_2._defaultMat"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "gold",
-                "wood",
-                "_defaultMat"
+                "gold"
             ],
             "PhysicsMaterials": [
-                "Metal",
-                "Wood",
-                "Concrete"
+                "Metal"
             ]
         },
         {

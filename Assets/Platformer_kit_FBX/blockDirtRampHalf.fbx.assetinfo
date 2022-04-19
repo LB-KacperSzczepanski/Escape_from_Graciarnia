@@ -20,6 +20,7 @@
                     "RootNode.blockDirtRampHalf.blockDirtRampHalf_2.dirt"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
                 "dirt"
             ],

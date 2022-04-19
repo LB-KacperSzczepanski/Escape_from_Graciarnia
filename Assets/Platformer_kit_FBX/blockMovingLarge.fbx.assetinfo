@@ -8,22 +8,28 @@
                 "selectedNodes": [
                     "RootNode",
                     "RootNode.blockMovingLarge",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1",
                     "RootNode.blockMovingLarge.blockMovingLarge_2",
-                    "RootNode.blockMovingLarge.blockMovingLarge_1"
-                ],
-                "unselectedNodes": [
-                    {}
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.transform",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.custom_properties",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.UV0",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.gold",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.wood",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1._defaultMat",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.transform",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.custom_properties",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.UV0",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.gold",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.wood",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2._defaultMat"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "gold",
-                "wood",
-                "_defaultMat"
+                "gold"
             ],
             "PhysicsMaterials": [
-                "Metal",
-                "Wood",
-                "<Default Physics Material>"
+                "Metal"
             ]
         },
         {
@@ -31,11 +37,22 @@
             "name": "blockMovingLarge",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.blockMovingLarge",
                     "RootNode.blockMovingLarge.blockMovingLarge_1",
-                    "RootNode.blockMovingLarge.blockMovingLarge_2"
+                    "RootNode.blockMovingLarge.blockMovingLarge_2",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.transform",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.custom_properties",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.UV0",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.gold",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1.wood",
+                    "RootNode.blockMovingLarge.blockMovingLarge_1._defaultMat",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.transform",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.custom_properties",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.UV0",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.gold",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2.wood",
+                    "RootNode.blockMovingLarge.blockMovingLarge_2._defaultMat"
                 ]
             },
             "rules": {

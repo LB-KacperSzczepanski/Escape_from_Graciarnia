@@ -8,20 +8,26 @@
                 "selectedNodes": [
                     "RootNode",
                     "RootNode.blockQuarter",
+                    "RootNode.blockQuarter.blockQuarter_1",
                     "RootNode.blockQuarter.blockQuarter_2",
-                    "RootNode.blockQuarter.blockQuarter_1"
-                ],
-                "unselectedNodes": [
-                    {}
+                    "RootNode.blockQuarter.blockQuarter_1.transform",
+                    "RootNode.blockQuarter.blockQuarter_1.custom_properties",
+                    "RootNode.blockQuarter.blockQuarter_1.UV0",
+                    "RootNode.blockQuarter.blockQuarter_1.grass",
+                    "RootNode.blockQuarter.blockQuarter_1.dirt",
+                    "RootNode.blockQuarter.blockQuarter_2.transform",
+                    "RootNode.blockQuarter.blockQuarter_2.custom_properties",
+                    "RootNode.blockQuarter.blockQuarter_2.UV0",
+                    "RootNode.blockQuarter.blockQuarter_2.grass",
+                    "RootNode.blockQuarter.blockQuarter_2.dirt"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "grass",
-                "dirt"
+                "grass"
             ],
             "PhysicsMaterials": [
-                "Terrain_Grass",
-                "Terrain_Dirt"
+                "Terrain_Grass"
             ]
         },
         {
@@ -29,11 +35,20 @@
             "name": "blockQuarter",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.blockQuarter",
                     "RootNode.blockQuarter.blockQuarter_1",
-                    "RootNode.blockQuarter.blockQuarter_2"
+                    "RootNode.blockQuarter.blockQuarter_2",
+                    "RootNode.blockQuarter.blockQuarter_1.transform",
+                    "RootNode.blockQuarter.blockQuarter_1.custom_properties",
+                    "RootNode.blockQuarter.blockQuarter_1.UV0",
+                    "RootNode.blockQuarter.blockQuarter_1.grass",
+                    "RootNode.blockQuarter.blockQuarter_1.dirt",
+                    "RootNode.blockQuarter.blockQuarter_2.transform",
+                    "RootNode.blockQuarter.blockQuarter_2.custom_properties",
+                    "RootNode.blockQuarter.blockQuarter_2.UV0",
+                    "RootNode.blockQuarter.blockQuarter_2.grass",
+                    "RootNode.blockQuarter.blockQuarter_2.dirt"
                 ]
             },
             "rules": {

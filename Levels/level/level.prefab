@@ -20,8 +20,77 @@
                 "Id": 14126657869720434043,
                 "Child Entity Order": [
                     "Entity_[1176639161715]",
+                    "Instance_[11708686552419]/ContainerEntity",
+                    "Instance_[11734456356195]/ContainerEntity",
+                    "Instance_[11798880865635]/ContainerEntity",
+                    "Instance_[11897665113443]/ContainerEntity",
+                    "Instance_[12047988968803]/ContainerEntity",
+                    "Instance_[12142478249315]/ContainerEntity",
+                    "Instance_[12344341712227]/ContainerEntity",
+                    "Instance_[12602039749987]/ContainerEntity",
+                    "Instance_[12769543474531]/ContainerEntity",
+                    "Instance_[12954227068259]/ContainerEntity",
+                    "Instance_[13156090531171]/ContainerEntity",
+                    "Instance_[13357953994083]/ContainerEntity",
+                    "Instance_[13765975887203]/ContainerEntity",
+                    "Instance_[14208357518691]/ContainerEntity",
+                    "Instance_[14929912024419]/ContainerEntity",
+                    "Instance_[15441013132643]/ContainerEntity",
+                    "Instance_[15986473979235]/ContainerEntity",
+                    "Instance_[16566294564195]/ContainerEntity",
+                    "Instance_[17180474887523]/ContainerEntity",
+                    "Instance_[17829014949219]/ContainerEntity",
+                    "Instance_[18511914749283]/ContainerEntity",
+                    "Instance_[19233469255011]/ContainerEntity",
+                    "Instance_[19985088531811]/ContainerEntity",
+                    "Instance_[20771067546979]/ContainerEntity",
+                    "Instance_[21595701267811]/ContainerEntity",
+                    "Instance_[22450399759715]/ContainerEntity",
+                    "Instance_[23339457989987]/ContainerEntity",
+                    "Instance_[24262875958627]/ContainerEntity",
+                    "Instance_[25220653665635]/ContainerEntity",
+                    "Instance_[26212791111011]/ContainerEntity",
+                    "Instance_[27239288294755]/ContainerEntity",
+                    "Instance_[28300145216867]/ContainerEntity",
+                    "Instance_[29395361877347]/ContainerEntity",
+                    "Instance_[30529233243491]/ContainerEntity",
+                    "Instance_[31693169380707]/ContainerEntity",
+                    "Instance_[32891465256291]/ContainerEntity",
+                    "Instance_[35146323086691]/ContainerEntity",
+                    "Instance_[35790568181091]/ContainerEntity",
+                    "Instance_[37091943271779]/ContainerEntity",
+                    "Instance_[38427678100835]/ContainerEntity",
+                    "Instance_[39797772668259]/ContainerEntity",
                     "Entity_[42336098340195]",
-                    "Entity_[750281224905399]"
+                    "Instance_[42344688274787]/ContainerEntity",
+                    "Instance_[43783502318947]/ContainerEntity",
+                    "Instance_[45256676101475]/ContainerEntity",
+                    "Instance_[46764209622371]/ContainerEntity",
+                    "Instance_[50801478880611]/ContainerEntity",
+                    "Instance_[52377731878243]/ContainerEntity",
+                    "Instance_[53988344614243]/ContainerEntity",
+                    "Instance_[55633317088611]/ContainerEntity",
+                    "Instance_[57312649301347]/ContainerEntity",
+                    "Instance_[59026341252451]/ContainerEntity",
+                    "Instance_[60774392941923]/ContainerEntity",
+                    "Instance_[62556804369763]/ContainerEntity",
+                    "Instance_[64373575535971]/ContainerEntity",
+                    "Instance_[66267656113507]/ContainerEntity",
+                    "Instance_[67302743231843]/ContainerEntity",
+                    "Instance_[69222593613155]/ContainerEntity",
+                    "Instance_[71176803732835]/ContainerEntity",
+                    "Instance_[73165373590883]/ContainerEntity",
+                    "Instance_[75188303187299]/ContainerEntity",
+                    "Instance_[77267067358563]/ContainerEntity",
+                    "Instance_[78323629313379]/ContainerEntity",
+                    "Instance_[80449638124899]/ContainerEntity",
+                    "Instance_[82610006674787]/ContainerEntity",
+                    "Instance_[84804734963043]/ContainerEntity",
+                    "Instance_[93806986415459]/ContainerEntity",
+                    "Instance_[96070434180451]/ContainerEntity",
+                    "Instance_[98368241683811]/ContainerEntity",
+                    "Instance_[100700408925539]/ContainerEntity",
+                    "Instance_[103066935905635]/ContainerEntity"
                 ]
             },
             "Component_[15230859088967841193]": {
@@ -213,7 +282,7 @@
                     "Controller": {
                         "Configuration": {
                             "Field of View": 55.0,
-                            "EditorEntityId": 16939753540815283223
+                            "EditorEntityId": 15985229951563942112
                         }
                     }
                 },
@@ -555,174 +624,6 @@
                     "Id": 7974458235676281850
                 }
             }
-        },
-        "Entity_[717764027507383]": {
-            "Id": "Entity_[717764027507383]",
-            "Name": "blocks_parent",
-            "Components": {
-                "Component_[10769078167600327718]": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 10769078167600327718
-                },
-                "Component_[11274715718561375152]": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 11274715718561375152,
-                    "Parent Entity": "Entity_[750281224905399]"
-                },
-                "Component_[13213688403635230614]": {
-                    "$type": "EditorLockComponent",
-                    "Id": 13213688403635230614
-                },
-                "Component_[15217505032339881781]": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 15217505032339881781
-                },
-                "Component_[2193438020033831639]": {
-                    "$type": "SelectionComponent",
-                    "Id": 2193438020033831639
-                },
-                "Component_[3731416783141988905]": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 3731416783141988905
-                },
-                "Component_[3814718829714218291]": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 3814718829714218291
-                },
-                "Component_[4006117927167351875]": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 4006117927167351875
-                },
-                "Component_[403162745413556813]": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 403162745413556813
-                },
-                "Component_[4737542871468495258]": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 4737542871468495258,
-                    "Child Entity Order": [
-                        "Instance_[11708686552419]/ContainerEntity",
-                        "Instance_[11734456356195]/ContainerEntity",
-                        "Instance_[11798880865635]/ContainerEntity",
-                        "Instance_[11897665113443]/ContainerEntity",
-                        "Instance_[12142478249315]/ContainerEntity",
-                        "Instance_[12344341712227]/ContainerEntity",
-                        "Instance_[14208357518691]/ContainerEntity",
-                        "Instance_[15441013132643]/ContainerEntity",
-                        "Instance_[15986473979235]/ContainerEntity",
-                        "Instance_[16566294564195]/ContainerEntity",
-                        "Instance_[17180474887523]/ContainerEntity",
-                        "Instance_[17829014949219]/ContainerEntity",
-                        "Instance_[18511914749283]/ContainerEntity",
-                        "Instance_[30529233243491]/ContainerEntity",
-                        "Instance_[31693169380707]/ContainerEntity",
-                        "Instance_[35790568181091]/ContainerEntity",
-                        "Instance_[37091943271779]/ContainerEntity",
-                        "Instance_[38427678100835]/ContainerEntity",
-                        "Instance_[39797772668259]/ContainerEntity",
-                        "Instance_[42344688274787]/ContainerEntity",
-                        "Instance_[43783502318947]/ContainerEntity",
-                        "Instance_[50801478880611]/ContainerEntity",
-                        "Instance_[52377731878243]/ContainerEntity",
-                        "Instance_[80449638124899]/ContainerEntity",
-                        "Instance_[82610006674787]/ContainerEntity",
-                        "Instance_[84804734963043]/ContainerEntity"
-                    ]
-                }
-            }
-        },
-        "Entity_[750281224905399]": {
-            "Id": "Entity_[750281224905399]",
-            "Name": "level_elements_parent",
-            "Components": {
-                "Component_[10455075413314822827]": {
-                    "$type": "EditorInspectorComponent",
-                    "Id": 10455075413314822827
-                },
-                "Component_[10877029646338902530]": {
-                    "$type": "EditorVisibilityComponent",
-                    "Id": 10877029646338902530
-                },
-                "Component_[14585619798028191324]": {
-                    "$type": "EditorDisabledCompositionComponent",
-                    "Id": 14585619798028191324
-                },
-                "Component_[15229267691468759928]": {
-                    "$type": "EditorEntitySortComponent",
-                    "Id": 15229267691468759928,
-                    "Child Entity Order": [
-                        "Instance_[12047988968803]/ContainerEntity",
-                        "Instance_[12602039749987]/ContainerEntity",
-                        "Instance_[12769543474531]/ContainerEntity",
-                        "Instance_[12954227068259]/ContainerEntity",
-                        "Instance_[13156090531171]/ContainerEntity",
-                        "Instance_[13357953994083]/ContainerEntity",
-                        "Instance_[13765975887203]/ContainerEntity",
-                        "Instance_[14929912024419]/ContainerEntity",
-                        "Instance_[19233469255011]/ContainerEntity",
-                        "Instance_[19985088531811]/ContainerEntity",
-                        "Instance_[20771067546979]/ContainerEntity",
-                        "Instance_[21595701267811]/ContainerEntity",
-                        "Instance_[22450399759715]/ContainerEntity",
-                        "Instance_[23339457989987]/ContainerEntity",
-                        "Instance_[24262875958627]/ContainerEntity",
-                        "Instance_[25220653665635]/ContainerEntity",
-                        "Instance_[26212791111011]/ContainerEntity",
-                        "Instance_[27239288294755]/ContainerEntity",
-                        "Instance_[28300145216867]/ContainerEntity",
-                        "Instance_[29395361877347]/ContainerEntity",
-                        "Instance_[32891465256291]/ContainerEntity",
-                        "Instance_[35146323086691]/ContainerEntity",
-                        "Instance_[45256676101475]/ContainerEntity",
-                        "Instance_[46764209622371]/ContainerEntity",
-                        "Instance_[53988344614243]/ContainerEntity",
-                        "Instance_[55633317088611]/ContainerEntity",
-                        "Instance_[57312649301347]/ContainerEntity",
-                        "Instance_[59026341252451]/ContainerEntity",
-                        "Instance_[60774392941923]/ContainerEntity",
-                        "Instance_[62556804369763]/ContainerEntity",
-                        "Instance_[64373575535971]/ContainerEntity",
-                        "Instance_[66267656113507]/ContainerEntity",
-                        "Instance_[67302743231843]/ContainerEntity",
-                        "Instance_[69222593613155]/ContainerEntity",
-                        "Instance_[71176803732835]/ContainerEntity",
-                        "Instance_[73165373590883]/ContainerEntity",
-                        "Instance_[75188303187299]/ContainerEntity",
-                        "Instance_[77267067358563]/ContainerEntity",
-                        "Instance_[78323629313379]/ContainerEntity",
-                        "Instance_[93806986415459]/ContainerEntity",
-                        "Instance_[96070434180451]/ContainerEntity",
-                        "Instance_[98368241683811]/ContainerEntity",
-                        "Instance_[100700408925539]/ContainerEntity",
-                        "Entity_[717764027507383]"
-                    ]
-                },
-                "Component_[16888435453355569420]": {
-                    "$type": "SelectionComponent",
-                    "Id": 16888435453355569420
-                },
-                "Component_[52430284551753810]": {
-                    "$type": "EditorPendingCompositionComponent",
-                    "Id": 52430284551753810
-                },
-                "Component_[6498330962098749935]": {
-                    "$type": "EditorLockComponent",
-                    "Id": 6498330962098749935
-                },
-                "Component_[6971023848731762849]": {
-                    "$type": "EditorEntityIconComponent",
-                    "Id": 6971023848731762849
-                },
-                "Component_[9473860854550879283]": {
-                    "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
-                    "Id": 9473860854550879283,
-                    "Parent Entity": "Entity_[1146574390643]"
-                },
-                "Component_[9922844299069724906]": {
-                    "$type": "EditorOnlyEntityComponent",
-                    "Id": 9922844299069724906
-                }
-            }
         }
     },
     "Instances": {
@@ -732,7 +633,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -751,23 +652,28 @@
                 }
             ]
         },
+        "Instance_[103066935905635]": {
+            "Source": "Prefabs/block.prefab",
+            "Patches": [
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
+                    "value": "../Entity_[1146574390643]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
+                    "value": 8.0
+                }
+            ]
+        },
         "Instance_[11708686552419]": {
             "Source": "Prefabs/block.prefab",
             "Patches": [
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 1.0
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 0.5
+                    "value": "../Entity_[1146574390643]"
                 }
             ]
         },
@@ -777,17 +683,12 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 1.0
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 1.5
+                    "value": 1.0
                 }
             ]
         },
@@ -797,17 +698,12 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 1.0
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 2.5
+                    "value": 2.0
                 }
             ]
         },
@@ -817,17 +713,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 2.0
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 4.5
+                    "value": 4.0
                 },
                 {
                     "op": "replace",
@@ -842,7 +738,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[853018519442407980]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -872,17 +768,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 2.0
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 2.5
+                    "value": 2.0
                 },
                 {
                     "op": "replace",
@@ -897,17 +793,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 2.0
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 3.5
+                    "value": 3.0
                 },
                 {
                     "op": "replace",
@@ -922,7 +818,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[6315526293168073582]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -942,7 +838,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[6315526293168073582]/Transform Data/Rotate/2",
-                    "value": 89.99999237060547
+                    "value": 90.0
                 }
             ]
         },
@@ -952,7 +848,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[12164717133771851935]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -972,7 +868,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[1991566795602690343]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -992,7 +888,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1017,7 +913,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1042,7 +938,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1067,17 +963,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 2.0
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 1.5
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
@@ -1092,7 +988,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[853018519442407980]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1112,7 +1008,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[853018519442407980]/Transform Data/Rotate/2",
-                    "value": 89.99999237060547
+                    "value": 90.0
                 }
             ]
         },
@@ -1122,17 +1018,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 2.0
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 5.5
+                    "value": 5.0
                 },
                 {
                     "op": "replace",
@@ -1147,17 +1043,12 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -2.0
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 0.5
+                    "value": -3.0
                 }
             ]
         },
@@ -1167,17 +1058,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -2.0
+                    "value": -3.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 1.5
+                    "value": 1.0
                 }
             ]
         },
@@ -1187,17 +1078,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -2.0
+                    "value": -3.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 2.5
+                    "value": 2.0
                 }
             ]
         },
@@ -1207,12 +1098,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
+                    "value": -1.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": -0.5
+                    "value": -1.0
                 },
                 {
                     "op": "replace",
@@ -1227,17 +1123,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -1.0
+                    "value": -2.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": -0.5
+                    "value": -1.0
                 },
                 {
                     "op": "replace",
@@ -1252,7 +1148,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1272,7 +1168,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1287,7 +1183,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1307,7 +1203,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1327,7 +1223,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1352,7 +1248,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1372,7 +1268,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1392,7 +1288,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1417,7 +1313,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1442,7 +1338,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1462,7 +1358,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1482,7 +1378,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1507,17 +1403,12 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 2.0
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 0.5
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
@@ -1532,17 +1423,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": 2.0
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": -0.5
+                    "value": -1.0
                 },
                 {
                     "op": "replace",
@@ -1557,7 +1448,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[6315526293168073582]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1582,7 +1473,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9010721487594393042]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1607,17 +1498,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -3.0
+                    "value": -4.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": -0.5
+                    "value": -1.0
                 },
                 {
                     "op": "replace",
@@ -1632,17 +1523,12 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -3.0
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 0.5
+                    "value": -4.0
                 },
                 {
                     "op": "replace",
@@ -1657,17 +1543,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -3.0
+                    "value": -4.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 1.5
+                    "value": 1.0
                 },
                 {
                     "op": "replace",
@@ -1682,17 +1568,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -3.0
+                    "value": -4.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 2.5
+                    "value": 2.0
                 },
                 {
                     "op": "replace",
@@ -1707,27 +1593,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -2.0
-                },
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 3.5
-                }
-            ]
-        },
-        "Instance_[43783502318947]": {
-            "Source": "Prefabs/block.prefab",
-            "Patches": [
-                {
-                    "op": "replace",
-                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1737,7 +1603,27 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 3.5
+                    "value": 3.0
+                }
+            ]
+        },
+        "Instance_[43783502318947]": {
+            "Source": "Prefabs/block.prefab",
+            "Patches": [
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
+                    "value": "../Entity_[1146574390643]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
+                    "value": -4.0
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
+                    "value": 3.0
                 },
                 {
                     "op": "replace",
@@ -1752,7 +1638,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1772,7 +1658,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1797,17 +1683,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -2.0
+                    "value": -3.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 4.5
+                    "value": 4.0
                 }
             ]
         },
@@ -1817,17 +1703,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -2.0
+                    "value": -3.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 5.5
+                    "value": 5.0
                 }
             ]
         },
@@ -1837,7 +1723,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1857,7 +1743,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1882,7 +1768,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1907,7 +1793,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1932,7 +1818,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1957,7 +1843,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -1977,7 +1863,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2002,7 +1888,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9121087648164856100]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2027,7 +1913,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9121087648164856100]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2047,7 +1933,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9121087648164856100]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2072,7 +1958,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2097,7 +1983,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2117,7 +2003,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2142,7 +2028,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9455047184447938807]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2157,7 +2043,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9455047184447938807]/Transform Data/Rotate/2",
-                    "value": -90.00000762939453
+                    "value": 270.0
                 }
             ]
         },
@@ -2167,7 +2053,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2192,17 +2078,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -3.0
+                    "value": -4.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 6.5
+                    "value": 6.0
                 }
             ]
         },
@@ -2212,17 +2098,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
-                    "value": -1.0
+                    "value": -2.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 7.5
+                    "value": 8.0
                 }
             ]
         },
@@ -2232,12 +2118,17 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Parent Entity",
-                    "value": "../Entity_[717764027507383]"
+                    "value": "../Entity_[1146574390643]"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/0",
+                    "value": -1.0
                 },
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[2084880805228467809]/Transform Data/Translate/1",
-                    "value": 7.5
+                    "value": 8.0
                 }
             ]
         },
@@ -2247,7 +2138,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2272,7 +2163,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",
@@ -2297,7 +2188,7 @@
                 {
                     "op": "replace",
                     "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
-                    "value": "../Entity_[750281224905399]"
+                    "value": "../Entity_[1146574390643]"
                 },
                 {
                     "op": "replace",

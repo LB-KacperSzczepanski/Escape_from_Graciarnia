@@ -1,0 +1,135 @@
+{
+    "ContainerEntity": {
+        "Id": "ContainerEntity",
+        "Name": "4dirtblocks",
+        "Components": {
+            "Component_[10279763264671470843]": {
+                "$type": "EditorPendingCompositionComponent",
+                "Id": 10279763264671470843
+            },
+            "Component_[10593753720746157106]": {
+                "$type": "EditorEntityIconComponent",
+                "Id": 10593753720746157106
+            },
+            "Component_[1160860624494765640]": {
+                "$type": "EditorOnlyEntityComponent",
+                "Id": 1160860624494765640
+            },
+            "Component_[12476265004311837470]": {
+                "$type": "EditorLockComponent",
+                "Id": 12476265004311837470
+            },
+            "Component_[13305633807620939452]": {
+                "$type": "EditorPrefabComponent",
+                "Id": 13305633807620939452
+            },
+            "Component_[13842204849689462231]": {
+                "$type": "{27F1E1A1-8D9D-4C3B-BD3A-AFB9762449C0} TransformComponent",
+                "Id": 13842204849689462231,
+                "Parent Entity": ""
+            },
+            "Component_[1500719005541556606]": {
+                "$type": "EditorVisibilityComponent",
+                "Id": 1500719005541556606
+            },
+            "Component_[3428312975259576921]": {
+                "$type": "EditorDisabledCompositionComponent",
+                "Id": 3428312975259576921
+            },
+            "Component_[6376728990847729218]": {
+                "$type": "EditorInspectorComponent",
+                "Id": 6376728990847729218
+            },
+            "Component_[6515376503903898927]": {
+                "$type": "SelectionComponent",
+                "Id": 6515376503903898927
+            },
+            "Component_[7207616254430311141]": {
+                "$type": "EditorEntitySortComponent",
+                "Id": 7207616254430311141
+            }
+        }
+    },
+    "Instances": {
+        "Instance_[66974142045986]": {
+            "Source": "Prefabs/blockdirt.prefab",
+            "Patches": [
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
+                    "value": "../ContainerEntity"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Transform Data/Translate/0",
+                    "value": -0.5
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Transform Data/Translate/1",
+                    "value": 0.5
+                }
+            ]
+        },
+        "Instance_[69409388502818]": {
+            "Source": "Prefabs/blockdirt.prefab",
+            "Patches": [
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
+                    "value": "../ContainerEntity"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Transform Data/Translate/0",
+                    "value": -0.5
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Transform Data/Translate/1",
+                    "value": -0.5
+                }
+            ]
+        },
+        "Instance_[86426048929570]": {
+            "Source": "Prefabs/blockdirt.prefab",
+            "Patches": [
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
+                    "value": "../ContainerEntity"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Transform Data/Translate/0",
+                    "value": 0.5
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Transform Data/Translate/1",
+                    "value": 0.5
+                }
+            ]
+        },
+        "Instance_[86430343896866]": {
+            "Source": "Prefabs/blockdirt.prefab",
+            "Patches": [
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Parent Entity",
+                    "value": "../ContainerEntity"
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Transform Data/Translate/0",
+                    "value": 0.5
+                },
+                {
+                    "op": "replace",
+                    "path": "/ContainerEntity/Components/Component_[9163267511512685663]/Transform Data/Translate/1",
+                    "value": -0.5
+                }
+            ]
+        }
+    }
+}

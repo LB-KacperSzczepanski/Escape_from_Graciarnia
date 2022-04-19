@@ -9,16 +9,25 @@
                     "RootNode",
                     "RootNode.block",
                     "RootNode.block.block_1",
-                    "RootNode.block.block_2"
+                    "RootNode.block.block_2",
+                    "RootNode.block.block_1.transform",
+                    "RootNode.block.block_1.custom_properties",
+                    "RootNode.block.block_1.UV0",
+                    "RootNode.block.block_1.grass",
+                    "RootNode.block.block_1.dirt",
+                    "RootNode.block.block_2.transform",
+                    "RootNode.block.block_2.custom_properties",
+                    "RootNode.block.block_2.UV0",
+                    "RootNode.block.block_2.grass",
+                    "RootNode.block.block_2.dirt"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "grass",
-                "dirt"
+                "grass"
             ],
             "PhysicsMaterials": [
-                "Terrain_Grass",
-                "Terrain_Dirt"
+                "Terrain_Grass"
             ]
         },
         {
@@ -26,11 +35,20 @@
             "name": "block",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.block",
                     "RootNode.block.block_1",
-                    "RootNode.block.block_2"
+                    "RootNode.block.block_2",
+                    "RootNode.block.block_1.transform",
+                    "RootNode.block.block_1.custom_properties",
+                    "RootNode.block.block_1.UV0",
+                    "RootNode.block.block_1.grass",
+                    "RootNode.block.block_1.dirt",
+                    "RootNode.block.block_2.transform",
+                    "RootNode.block.block_2.custom_properties",
+                    "RootNode.block.block_2.UV0",
+                    "RootNode.block.block_2.grass",
+                    "RootNode.block.block_2.dirt"
                 ]
             },
             "rules": {
