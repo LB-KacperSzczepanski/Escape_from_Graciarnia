@@ -8,13 +8,19 @@
                 "selectedNodes": [
                     "RootNode",
                     "RootNode.spikes",
+                    "RootNode.spikes.spikes_1",
                     "RootNode.spikes.spikes_2",
-                    "RootNode.spikes.spikes_1"
-                ],
-                "unselectedNodes": [
-                    {}
+                    "RootNode.spikes.spikes_1.transform",
+                    "RootNode.spikes.spikes_1.custom_properties",
+                    "RootNode.spikes.spikes_1.map1",
+                    "RootNode.spikes.spikes_1.metal",
+                    "RootNode.spikes.spikes_2.transform",
+                    "RootNode.spikes.spikes_2.custom_properties",
+                    "RootNode.spikes.spikes_2.map1",
+                    "RootNode.spikes.spikes_2.metal"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
                 "metal"
             ],
@@ -27,11 +33,18 @@
             "name": "spikes",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.spikes",
                     "RootNode.spikes.spikes_1",
-                    "RootNode.spikes.spikes_2"
+                    "RootNode.spikes.spikes_2",
+                    "RootNode.spikes.spikes_1.transform",
+                    "RootNode.spikes.spikes_1.custom_properties",
+                    "RootNode.spikes.spikes_1.map1",
+                    "RootNode.spikes.spikes_1.metal",
+                    "RootNode.spikes.spikes_2.transform",
+                    "RootNode.spikes.spikes_2.custom_properties",
+                    "RootNode.spikes.spikes_2.map1",
+                    "RootNode.spikes.spikes_2.metal"
                 ]
             },
             "rules": {
