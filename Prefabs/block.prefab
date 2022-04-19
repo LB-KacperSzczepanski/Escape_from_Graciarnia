@@ -62,11 +62,6 @@
                     "$type": "EditorColliderComponent",
                     "Id": 10182715681564515582,
                     "ColliderConfiguration": {
-                        "Position": [
-                            1.0,
-                            0.5,
-                            0.0
-                        ],
                         "MaterialSelection": {
                             "MaterialIds": [
                                 {
@@ -161,9 +156,9 @@
                             "ModelAsset": {
                                 "assetId": {
                                     "guid": "{B5EBC0B3-FB3B-558C-936F-D50C00B800DD}",
-                                    "subId": 283154572
+                                    "subId": 270243618
                                 },
-                                "assetHint": "assets/platformer_kit_fbx/default_blockrootnode_block_block_1.azmodel"
+                                "assetHint": "assets/platformer_kit_fbx/block.azmodel"
                             }
                         }
                     }

@@ -12,7 +12,7 @@
         "NewProject"
     ],
     "icon_path": "preview.png",
-    "engine": "o3de-install",
+    "engine": "o3de-sdk",
     "external_subdirectories": [
         "Gem"
     ],
