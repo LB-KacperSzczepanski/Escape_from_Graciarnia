@@ -5,7 +5,7 @@
     "ClassData": {
         "m_scriptCanvas": {
             "Id": {
-                "id": 2544281054007
+                "id": 54603336239673
             },
             "Name": "Script Canvas Graph",
             "Components": {
@@ -16,7 +16,7 @@
                         "m_nodes": [
                             {
                                 "Id": {
-                                    "id": 2621590465335
+                                    "id": 54680645651001
                                 },
                                 "Name": "SC-Node(Get Body 1 EntityId)",
                                 "Components": {
@@ -118,7 +118,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2608705563447
+                                    "id": 54672055716409
                                 },
                                 "Name": "SC Node(SetVariable)",
                                 "Components": {
@@ -219,7 +219,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2587230726967
+                                    "id": 54663465781817
                                 },
                                 "Name": "SC-Node(HasTag)",
                                 "Components": {
@@ -353,7 +353,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2574345825079
+                                    "id": 54650580879929
                                 },
                                 "Name": "SC-Node(Greater)",
                                 "Components": {
@@ -500,7 +500,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2561460923191
+                                    "id": 54633401010745
                                 },
                                 "Name": "SC Node(GetVariable)",
                                 "Components": {
@@ -571,7 +571,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2591525694263
+                                    "id": 54620516108857
                                 },
                                 "Name": "SC-Node(Start)",
                                 "Components": {
@@ -601,7 +601,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2578640792375
+                                    "id": 54607631206969
                                 },
                                 "Name": "SendScriptEvent",
                                 "Components": {
@@ -695,7 +695,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2565755890487
+                                    "id": 54637695978041
                                 },
                                 "Name": "SendScriptEvent",
                                 "Components": {
@@ -789,7 +789,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2613000530743
+                                    "id": 54684940618297
                                 },
                                 "Name": "SC-Node(Get Body 2 EntityId)",
                                 "Components": {
@@ -891,7 +891,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2582935759671
+                                    "id": 54611926174265
                                 },
                                 "Name": "SC-EventNode(On Collision Begin event)",
                                 "Components": {
@@ -914,7 +914,7 @@
                                                     {
                                                         "$type": "RestrictedNodeContract",
                                                         "m_nodeId": {
-                                                            "id": 2570050857783
+                                                            "id": 54641990945337
                                                         }
                                                     }
                                                 ],
@@ -1045,7 +1045,7 @@
                                                     {
                                                         "$type": "RestrictedNodeContract",
                                                         "m_nodeId": {
-                                                            "id": 2570050857783
+                                                            "id": 54641990945337
                                                         }
                                                     }
                                                 ],
@@ -1070,6 +1070,102 @@
                                         "m_azEventEntry": {
                                             "m_eventName": "On Collision Begin event",
                                             "m_parameterSlotIds": [
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
                                                 {
                                                     "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
                                                 },
@@ -1263,6 +1359,102 @@
                                                 },
                                                 {
                                                     "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
+                                                },
+                                                {
+                                                    "m_id": "{A558AB28-82E2-4F64-9531-6568B70A3E41}"
+                                                },
+                                                {
+                                                    "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
                                                 }
                                             ],
                                             "m_eventSlotId": {
@@ -1274,7 +1466,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2570050857783
+                                    "id": 54641990945337
                                 },
                                 "Name": "SC-Node(GetOnCollisionBeginEvent)",
                                 "Components": {
@@ -1379,7 +1571,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2552870988599
+                                    "id": 54624811076153
                                 },
                                 "Name": "SC-Node(Print)",
                                 "Components": {
@@ -1466,7 +1658,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2595820661559
+                                    "id": 54654875847225
                                 },
                                 "Name": "SC Node(SetVariable)",
                                 "Components": {
@@ -1567,7 +1759,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2600115628855
+                                    "id": 54667760749113
                                 },
                                 "Name": "SC-Node(Print)",
                                 "Components": {
@@ -1616,7 +1808,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2617295498039
+                                    "id": 54676350683705
                                 },
                                 "Name": "SC-Node(Gate)",
                                 "Components": {
@@ -1706,7 +1898,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2548576021303
+                                    "id": 54689235585593
                                 },
                                 "Name": "SC Node(SetVariable)",
                                 "Components": {
@@ -1795,6 +1987,7 @@
                                                 "label": "EntityId"
                                             }
                                         ],
+                                        "NodeDisabledFlag": 1,
                                         "m_variableId": {
                                             "m_id": "{8530EA33-F1DA-4FF6-8451-4166B97072DC}"
                                         },
@@ -1809,7 +2002,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2604410596151
+                                    "id": 54616221141561
                                 },
                                 "Name": "SC-Node((NodeFunctionGenericMultiReturn<t_Func, t_Traits, function>)<{tuple<bool Vector3 Vector3 float EntityId Crc32 >(const Entity Ra)",
                                 "Components": {
@@ -2097,13 +2290,14 @@
                                                 "label": "Ignore"
                                             }
                                         ],
+                                        "NodeDisabledFlag": 1,
                                         "Initialized": true
                                     }
                                 }
                             },
                             {
                                 "Id": {
-                                    "id": 2557165955895
+                                    "id": 54646285912633
                                 },
                                 "Name": "SC-Node(OperatorAdd)",
                                 "Components": {
@@ -2344,7 +2538,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2625885432631
+                                    "id": 54629106043449
                                 },
                                 "Name": "SC-Node(TimerNodeableNode)",
                                 "Components": {
@@ -2555,7 +2749,671 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2630180399927
+                                    "id": 78526304078393
+                                },
+                                "Name": "SC-Node(DelayNodeableNode)",
+                                "Components": {
+                                    "Component_[5639848412755765978]": {
+                                        "$type": "DelayNodeableNode",
+                                        "Id": 5639848412755765978,
+                                        "Slots": [
+                                            {
+                                                "id": {
+                                                    "m_id": "{071F36C0-F4EA-4943-A830-3D8A3F7DC430}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Start",
+                                                "toolTip": "When signaled, execution is delayed at this node according to the specified properties.",
+                                                "DisplayGroup": {
+                                                    "Value": 2675529103
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{C777B7B5-2502-4D27-A75C-7533BF1EB365}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Start: Time",
+                                                "toolTip": "Amount of time to delay, in seconds.",
+                                                "DisplayGroup": {
+                                                    "Value": 2675529103
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{12409BFB-9DF2-4D56-904E-6952B0BC2FA2}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Start: Loop",
+                                                "toolTip": "If true, the delay will restart after triggering the Out slot.",
+                                                "DisplayGroup": {
+                                                    "Value": 2675529103
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{7038AEF4-5413-4247-980F-98C4E38D0FB6}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Start: Hold",
+                                                "toolTip": "Amount of time to wait before restarting, in seconds.",
+                                                "DisplayGroup": {
+                                                    "Value": 2675529103
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{B46EE23D-F03F-451C-BC91-A2E1437ED001}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "On Start",
+                                                "toolTip": "When signaled, execution is delayed at this node according to the specified properties.",
+                                                "DisplayGroup": {
+                                                    "Value": 2675529103
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{FB72822E-065E-4AE3-95BB-EBE330FFCF23}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Reset",
+                                                "toolTip": "When signaled, execution is delayed at this node according to the specified properties.",
+                                                "DisplayGroup": {
+                                                    "Value": 1352515405
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{788EB952-4981-40BA-8754-CB82DA0EDA29}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Reset: Time",
+                                                "toolTip": "Amount of time to delay, in seconds.",
+                                                "DisplayGroup": {
+                                                    "Value": 1352515405
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{3408B972-FCEB-442D-B260-95134E809456}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Reset: Loop",
+                                                "toolTip": "If true, the delay will restart after triggering the Out slot.",
+                                                "DisplayGroup": {
+                                                    "Value": 1352515405
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{F7FA8109-C077-4163-A510-B47B67A82928}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Reset: Hold",
+                                                "toolTip": "Amount of time to wait before restarting, in seconds.",
+                                                "DisplayGroup": {
+                                                    "Value": 1352515405
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{09234B35-209B-4BBC-AC94-C6BC961B5BC0}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "On Reset",
+                                                "toolTip": "When signaled, execution is delayed at this node according to the specified properties.",
+                                                "DisplayGroup": {
+                                                    "Value": 1352515405
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{4312B21D-260A-47B5-9AE3-CD0E282FDB83}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Cancel",
+                                                "toolTip": "Cancels the current delay.",
+                                                "DisplayGroup": {
+                                                    "Value": 1444332914
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{427240C1-66F8-424C-997B-E21571EC186B}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "On Cancel",
+                                                "toolTip": "Cancels the current delay.",
+                                                "DisplayGroup": {
+                                                    "Value": 1444332914
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{E3BBA83D-9897-4E8B-ACF2-07DDE399B5F3}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Done",
+                                                "toolTip": "Signaled when the delay reaches zero.",
+                                                "DisplayGroup": {
+                                                    "Value": 271442091
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 1
+                                                },
+                                                "IsLatent": true
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{0C5EF2F1-2F9D-49C4-80DC-D86592A4DB7A}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Elapsed",
+                                                "toolTip": "The amount of time that has elapsed since the delay began.",
+                                                "DisplayDataType": {
+                                                    "m_type": 3
+                                                },
+                                                "DisplayGroup": {
+                                                    "Value": 271442091
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            }
+                                        ],
+                                        "Datums": [
+                                            {
+                                                "isOverloadedStorage": false,
+                                                "scriptCanvasType": {
+                                                    "m_type": 3
+                                                },
+                                                "isNullPointer": false,
+                                                "$type": "double",
+                                                "value": 1.0,
+                                                "label": "Start: Time"
+                                            },
+                                            {
+                                                "isOverloadedStorage": false,
+                                                "scriptCanvasType": {
+                                                    "m_type": 0
+                                                },
+                                                "isNullPointer": false,
+                                                "$type": "bool",
+                                                "value": false,
+                                                "label": "Start: Loop"
+                                            },
+                                            {
+                                                "isOverloadedStorage": false,
+                                                "scriptCanvasType": {
+                                                    "m_type": 3
+                                                },
+                                                "isNullPointer": false,
+                                                "$type": "double",
+                                                "value": 0.0,
+                                                "label": "Start: Hold"
+                                            },
+                                            {
+                                                "isOverloadedStorage": false,
+                                                "scriptCanvasType": {
+                                                    "m_type": 3
+                                                },
+                                                "isNullPointer": false,
+                                                "$type": "double",
+                                                "value": 0.0,
+                                                "label": "Reset: Time"
+                                            },
+                                            {
+                                                "isOverloadedStorage": false,
+                                                "scriptCanvasType": {
+                                                    "m_type": 0
+                                                },
+                                                "isNullPointer": false,
+                                                "$type": "bool",
+                                                "value": false,
+                                                "label": "Reset: Loop"
+                                            },
+                                            {
+                                                "isOverloadedStorage": false,
+                                                "scriptCanvasType": {
+                                                    "m_type": 3
+                                                },
+                                                "isNullPointer": false,
+                                                "$type": "double",
+                                                "value": 0.0,
+                                                "label": "Reset: Hold"
+                                            }
+                                        ],
+                                        "slotExecutionMap": {
+                                            "ins": [
+                                                {
+                                                    "_slotId": {
+                                                        "m_id": "{071F36C0-F4EA-4943-A830-3D8A3F7DC430}"
+                                                    },
+                                                    "_inputs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{C777B7B5-2502-4D27-A75C-7533BF1EB365}"
+                                                            }
+                                                        },
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{12409BFB-9DF2-4D56-904E-6952B0BC2FA2}"
+                                                            }
+                                                        },
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{7038AEF4-5413-4247-980F-98C4E38D0FB6}"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "_outs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{B46EE23D-F03F-451C-BC91-A2E1437ED001}"
+                                                            },
+                                                            "_name": "On Start",
+                                                            "_interfaceSourceId": "{00000000-0000-0000-AB46-92DDF97F0000}"
+                                                        }
+                                                    ],
+                                                    "_interfaceSourceId": "{80F7A31B-6302-0000-8B08-823BF97F0000}"
+                                                },
+                                                {
+                                                    "_slotId": {
+                                                        "m_id": "{FB72822E-065E-4AE3-95BB-EBE330FFCF23}"
+                                                    },
+                                                    "_inputs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{788EB952-4981-40BA-8754-CB82DA0EDA29}"
+                                                            }
+                                                        },
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{3408B972-FCEB-442D-B260-95134E809456}"
+                                                            }
+                                                        },
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{F7FA8109-C077-4163-A510-B47B67A82928}"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "_outs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{09234B35-209B-4BBC-AC94-C6BC961B5BC0}"
+                                                            },
+                                                            "_name": "On Reset",
+                                                            "_interfaceSourceId": "{00000000-0000-0000-AB46-92DDF97F0000}"
+                                                        }
+                                                    ],
+                                                    "_interfaceSourceId": "{80F7A31B-6302-0000-8B08-823BF97F0000}"
+                                                },
+                                                {
+                                                    "_slotId": {
+                                                        "m_id": "{4312B21D-260A-47B5-9AE3-CD0E282FDB83}"
+                                                    },
+                                                    "_outs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{427240C1-66F8-424C-997B-E21571EC186B}"
+                                                            },
+                                                            "_name": "On Cancel",
+                                                            "_interfaceSourceId": "{00000000-0000-0000-AB46-92DDF97F0000}"
+                                                        }
+                                                    ],
+                                                    "_interfaceSourceId": "{80F7A31B-6302-0000-8B08-823BF97F0000}"
+                                                }
+                                            ],
+                                            "latents": [
+                                                {
+                                                    "_slotId": {
+                                                        "m_id": "{E3BBA83D-9897-4E8B-ACF2-07DDE399B5F3}"
+                                                    },
+                                                    "_name": "Done",
+                                                    "_outputs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{0C5EF2F1-2F9D-49C4-80DC-D86592A4DB7A}"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "_interfaceSourceId": "{80F7A31B-6302-0000-8B08-823BF97F0000}"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Id": {
+                                    "id": 77714555259449
+                                },
+                                "Name": "SC-Node(TimerNodeableNode)",
+                                "Components": {
+                                    "Component_[5826829056807771725]": {
+                                        "$type": "TimerNodeableNode",
+                                        "Id": 5826829056807771725,
+                                        "Slots": [
+                                            {
+                                                "id": {
+                                                    "m_id": "{DB89E785-B9E1-4FA7-AED3-6EF255F194E4}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Start",
+                                                "toolTip": "Starts the timer",
+                                                "DisplayGroup": {
+                                                    "Value": 2675529103
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{856CDD05-0BED-450F-BD0B-9EEDDAB786F7}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "On Start",
+                                                "toolTip": "Starts the timer",
+                                                "DisplayGroup": {
+                                                    "Value": 2675529103
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{BA701711-F03D-4B38-AB6C-6C686D8445A5}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Stop",
+                                                "toolTip": "Stops the timer",
+                                                "DisplayGroup": {
+                                                    "Value": 3109426870
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 1,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{4EF8E3D1-E609-4490-9A34-DE95905DEC3A}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "On Stop",
+                                                "toolTip": "Stops the timer",
+                                                "DisplayGroup": {
+                                                    "Value": 3109426870
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 1
+                                                }
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{5AA36673-22CC-448E-B5FA-57C09284D311}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "On Tick",
+                                                "toolTip": "Signaled at each tick while the timer is in operation.",
+                                                "DisplayGroup": {
+                                                    "Value": 608626060
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 1
+                                                },
+                                                "IsLatent": true
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{1ACBB30F-8DDD-4F6C-B751-E1C5FE8080F6}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Milliseconds",
+                                                "toolTip": "The amount of time that has elapsed since the timer started in milliseconds.",
+                                                "DisplayDataType": {
+                                                    "m_type": 3
+                                                },
+                                                "DisplayGroup": {
+                                                    "Value": 608626060
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            },
+                                            {
+                                                "id": {
+                                                    "m_id": "{4FC20B8A-C9A4-476F-9416-29753CEB12C5}"
+                                                },
+                                                "contracts": [
+                                                    {
+                                                        "$type": "SlotTypeContract"
+                                                    }
+                                                ],
+                                                "slotName": "Seconds",
+                                                "toolTip": "The amount of time that has elapsed since the timer started in seconds.",
+                                                "DisplayDataType": {
+                                                    "m_type": 3
+                                                },
+                                                "DisplayGroup": {
+                                                    "Value": 608626060
+                                                },
+                                                "Descriptor": {
+                                                    "ConnectionType": 2,
+                                                    "SlotType": 2
+                                                },
+                                                "DataType": 1
+                                            }
+                                        ],
+                                        "NodeDisabledFlag": 1,
+                                        "slotExecutionMap": {
+                                            "ins": [
+                                                {
+                                                    "_slotId": {
+                                                        "m_id": "{DB89E785-B9E1-4FA7-AED3-6EF255F194E4}"
+                                                    },
+                                                    "_outs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{856CDD05-0BED-450F-BD0B-9EEDDAB786F7}"
+                                                            },
+                                                            "_name": "On Start",
+                                                            "_interfaceSourceId": "{2068B5DD-6202-0000-D06F-5F4B63020000}"
+                                                        }
+                                                    ],
+                                                    "_interfaceSourceId": "{20000000-0000-0000-0000-000000000000}"
+                                                },
+                                                {
+                                                    "_slotId": {
+                                                        "m_id": "{BA701711-F03D-4B38-AB6C-6C686D8445A5}"
+                                                    },
+                                                    "_outs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{4EF8E3D1-E609-4490-9A34-DE95905DEC3A}"
+                                                            },
+                                                            "_name": "On Stop",
+                                                            "_interfaceSourceId": "{2068B5DD-6202-0000-D06F-5F4B63020000}"
+                                                        }
+                                                    ],
+                                                    "_interfaceSourceId": "{20000000-0000-0000-0000-000000000000}"
+                                                }
+                                            ],
+                                            "latents": [
+                                                {
+                                                    "_slotId": {
+                                                        "m_id": "{5AA36673-22CC-448E-B5FA-57C09284D311}"
+                                                    },
+                                                    "_name": "On Tick",
+                                                    "_outputs": [
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{1ACBB30F-8DDD-4F6C-B751-E1C5FE8080F6}"
+                                                            }
+                                                        },
+                                                        {
+                                                            "_slotId": {
+                                                                "m_id": "{4FC20B8A-C9A4-476F-9416-29753CEB12C5}"
+                                                            }
+                                                        }
+                                                    ],
+                                                    "_interfaceSourceId": "{20000000-0000-0000-0000-000000000000}"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Id": {
+                                    "id": 54659170814521
                                 },
                                 "Name": "SC-Node(Print)",
                                 "Components": {
@@ -2632,6 +3490,7 @@
                                                 "label": "Value"
                                             }
                                         ],
+                                        "NodeDisabledFlag": 1,
                                         "m_arrayBindingMap": [
                                             {
                                                 "Key": 1,
@@ -2656,7 +3515,7 @@
                         "m_connections": [
                             {
                                 "Id": {
-                                    "id": 2634475367223
+                                    "id": 54693530552889
                                 },
                                 "Name": "srcEndpoint=(GetOnCollisionBeginEvent: Event<tuple<Crc32 int > const CollisionEvent& >), destEndpoint=(On Collision Begin event: On Collision Begin event)",
                                 "Components": {
@@ -2665,7 +3524,7 @@
                                         "Id": 7111554049226556286,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2570050857783
+                                                "id": 54641990945337
                                             },
                                             "slotId": {
                                                 "m_id": "{9EA2A81A-39FA-47D8-A582-848EC1890571}"
@@ -2673,7 +3532,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2582935759671
+                                                "id": 54611926174265
                                             },
                                             "slotId": {
                                                 "m_id": "{15DB6EB2-9F9E-4FBC-8CFE-6C787A6E91B1}"
@@ -2684,7 +3543,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2638770334519
+                                    "id": 54697825520185
                                 },
                                 "Name": "srcEndpoint=(GetOnCollisionBeginEvent: Out), destEndpoint=(On Collision Begin event: Connect)",
                                 "Components": {
@@ -2693,7 +3552,7 @@
                                         "Id": 2309419127180177772,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2570050857783
+                                                "id": 54641990945337
                                             },
                                             "slotId": {
                                                 "m_id": "{1161E34F-A833-4889-8C4D-3F9E002B0950}"
@@ -2701,7 +3560,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2582935759671
+                                                "id": 54611926174265
                                             },
                                             "slotId": {
                                                 "m_id": "{FA8B9013-C5C8-4D60-872C-82A05D0BFDCA}"
@@ -2712,7 +3571,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2643065301815
+                                    "id": 54702120487481
                                 },
                                 "Name": "srcEndpoint=(RayCastLocalSpaceWithGroup: Out), destEndpoint=(Set Variable: In)",
                                 "Components": {
@@ -2721,7 +3580,7 @@
                                         "Id": 3315981299670639668,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2604410596151
+                                                "id": 54616221141561
                                             },
                                             "slotId": {
                                                 "m_id": "{2586990F-FAC9-4A31-B6A8-EDA58307F5D1}"
@@ -2729,7 +3588,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2548576021303
+                                                "id": 54689235585593
                                             },
                                             "slotId": {
                                                 "m_id": "{E3808B27-2E08-4AAC-A835-B362AFA8778F}"
@@ -2740,7 +3599,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2647360269111
+                                    "id": 54706415454777
                                 },
                                 "Name": "srcEndpoint=(RayCastLocalSpaceWithGroup: EntityId), destEndpoint=(Set Variable: EntityId)",
                                 "Components": {
@@ -2749,7 +3608,7 @@
                                         "Id": 7304835773217221298,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2604410596151
+                                                "id": 54616221141561
                                             },
                                             "slotId": {
                                                 "m_id": "{68301450-003D-48FF-B5F2-1289B05724DF}"
@@ -2757,7 +3616,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2548576021303
+                                                "id": 54689235585593
                                             },
                                             "slotId": {
                                                 "m_id": "{74544F18-36BC-4EF5-910E-27CCED397BBE}"
@@ -2768,7 +3627,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2651655236407
+                                    "id": 54710710422073
                                 },
                                 "Name": "srcEndpoint=(On Collision Begin event: OnEvent), destEndpoint=(Get Body 1 EntityId: In)",
                                 "Components": {
@@ -2777,7 +3636,7 @@
                                         "Id": 5152146132309145470,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2582935759671
+                                                "id": 54611926174265
                                             },
                                             "slotId": {
                                                 "m_id": "{EE3BC32D-22B5-4F67-B4E3-C45884382FD9}"
@@ -2785,7 +3644,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2621590465335
+                                                "id": 54680645651001
                                             },
                                             "slotId": {
                                                 "m_id": "{EEA9D5E4-8EEF-4615-A5F3-1357F656EA0D}"
@@ -2796,7 +3655,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2655950203703
+                                    "id": 54715005389369
                                 },
                                 "Name": "srcEndpoint=(On Collision Begin event: OnEvent), destEndpoint=(Get Body 2 EntityId: In)",
                                 "Components": {
@@ -2805,7 +3664,7 @@
                                         "Id": 14128633711447996340,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2582935759671
+                                                "id": 54611926174265
                                             },
                                             "slotId": {
                                                 "m_id": "{EE3BC32D-22B5-4F67-B4E3-C45884382FD9}"
@@ -2813,7 +3672,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2613000530743
+                                                "id": 54684940618297
                                             },
                                             "slotId": {
                                                 "m_id": "{E5B2CCD8-B12A-4820-8FD4-C0D77106ED74}"
@@ -2824,7 +3683,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2660245170999
+                                    "id": 54719300356665
                                 },
                                 "Name": "srcEndpoint=(Set Variable: Out), destEndpoint=(Print: In)",
                                 "Components": {
@@ -2833,7 +3692,7 @@
                                         "Id": 9030435948781314972,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2548576021303
+                                                "id": 54689235585593
                                             },
                                             "slotId": {
                                                 "m_id": "{D57E57BA-C32D-428C-A39E-974E7723C9DE}"
@@ -2841,7 +3700,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2630180399927
+                                                "id": 54659170814521
                                             },
                                             "slotId": {
                                                 "m_id": "{33A9FBF3-A3E7-4D97-AD90-AA1C3D2FBE81}"
@@ -2852,7 +3711,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2664540138295
+                                    "id": 54723595323961
                                 },
                                 "Name": "srcEndpoint=(Set Variable: EntityId), destEndpoint=(Print: Value)",
                                 "Components": {
@@ -2861,7 +3720,7 @@
                                         "Id": 6520536549177467417,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2548576021303
+                                                "id": 54689235585593
                                             },
                                             "slotId": {
                                                 "m_id": "{F11FF783-BC45-4768-8D54-B4F81D3D8CFD}"
@@ -2869,7 +3728,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2630180399927
+                                                "id": 54659170814521
                                             },
                                             "slotId": {
                                                 "m_id": "{6A5ADC65-F87E-47EF-A3B7-451F1D647C4B}"
@@ -2880,7 +3739,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2668835105591
+                                    "id": 54727890291257
                                 },
                                 "Name": "srcEndpoint=(On Collision Begin event: Collision Event), destEndpoint=(Get Body 1 EntityId: CollisionEvent)",
                                 "Components": {
@@ -2889,7 +3748,7 @@
                                         "Id": 5994021206701012986,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2582935759671
+                                                "id": 54611926174265
                                             },
                                             "slotId": {
                                                 "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
@@ -2897,7 +3756,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2621590465335
+                                                "id": 54680645651001
                                             },
                                             "slotId": {
                                                 "m_id": "{F8652033-A939-4469-B21F-62BD5F76A839}"
@@ -2908,7 +3767,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2673130072887
+                                    "id": 54732185258553
                                 },
                                 "Name": "srcEndpoint=(On Collision Begin event: Collision Event), destEndpoint=(Get Body 2 EntityId: CollisionEvent)",
                                 "Components": {
@@ -2917,7 +3776,7 @@
                                         "Id": 15308366285672082292,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2582935759671
+                                                "id": 54611926174265
                                             },
                                             "slotId": {
                                                 "m_id": "{78F6A749-1240-4DAE-8D57-17BB91F7689D}"
@@ -2925,7 +3784,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2613000530743
+                                                "id": 54684940618297
                                             },
                                             "slotId": {
                                                 "m_id": "{82AEE135-3209-4917-9491-CA18F263D60D}"
@@ -2936,7 +3795,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2677425040183
+                                    "id": 54736480225849
                                 },
                                 "Name": "srcEndpoint=(On Graph Start: Out), destEndpoint=(RayCastLocalSpaceWithGroup: In)",
                                 "Components": {
@@ -2945,7 +3804,7 @@
                                         "Id": 11259618597196434760,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2591525694263
+                                                "id": 54620516108857
                                             },
                                             "slotId": {
                                                 "m_id": "{C4343FE8-E533-46B3-8623-8F54456E2956}"
@@ -2953,7 +3812,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2604410596151
+                                                "id": 54616221141561
                                             },
                                             "slotId": {
                                                 "m_id": "{EFF52E02-A026-4E06-A917-EE81DE3EBF12}"
@@ -2964,7 +3823,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2681720007479
+                                    "id": 54740775193145
                                 },
                                 "Name": "srcEndpoint=(On Graph Start: Out), destEndpoint=(GetOnCollisionBeginEvent: In)",
                                 "Components": {
@@ -2973,7 +3832,7 @@
                                         "Id": 15305865882923691248,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2591525694263
+                                                "id": 54620516108857
                                             },
                                             "slotId": {
                                                 "m_id": "{C4343FE8-E533-46B3-8623-8F54456E2956}"
@@ -2981,7 +3840,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2570050857783
+                                                "id": 54641990945337
                                             },
                                             "slotId": {
                                                 "m_id": "{651CDBE8-ACD1-40BE-BFC4-CC851E94BC7A}"
@@ -2992,7 +3851,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2686014974775
+                                    "id": 54745070160441
                                 },
                                 "Name": "srcEndpoint=(Get Body 2 EntityId: Out), destEndpoint=(HasTag: In)",
                                 "Components": {
@@ -3001,7 +3860,7 @@
                                         "Id": 11715002877827589877,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2613000530743
+                                                "id": 54684940618297
                                             },
                                             "slotId": {
                                                 "m_id": "{564E2C04-C012-4BE6-8443-DAEBC7EE6753}"
@@ -3009,7 +3868,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2587230726967
+                                                "id": 54663465781817
                                             },
                                             "slotId": {
                                                 "m_id": "{5806AA0A-FEA6-453E-8F26-C76129BB1FE5}"
@@ -3020,7 +3879,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2690309942071
+                                    "id": 54749365127737
                                 },
                                 "Name": "srcEndpoint=(Get Body 2 EntityId: EntityId), destEndpoint=(HasTag: EntityId: 0)",
                                 "Components": {
@@ -3029,7 +3888,7 @@
                                         "Id": 7564417053446976696,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2613000530743
+                                                "id": 54684940618297
                                             },
                                             "slotId": {
                                                 "m_id": "{8A97E264-46AB-4B90-A49B-F7C155FD0963}"
@@ -3037,7 +3896,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2587230726967
+                                                "id": 54663465781817
                                             },
                                             "slotId": {
                                                 "m_id": "{A5829C00-A436-4A02-991B-8458E7F0C854}"
@@ -3048,7 +3907,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2694604909367
+                                    "id": 54753660095033
                                 },
                                 "Name": "srcEndpoint=(HasTag: Out), destEndpoint=(If: In)",
                                 "Components": {
@@ -3057,7 +3916,7 @@
                                         "Id": 5771303091643465627,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2587230726967
+                                                "id": 54663465781817
                                             },
                                             "slotId": {
                                                 "m_id": "{50AE7A05-06A2-4668-B6D4-4A3ED1BDFE82}"
@@ -3065,7 +3924,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2617295498039
+                                                "id": 54676350683705
                                             },
                                             "slotId": {
                                                 "m_id": "{788DC1AF-CDC8-4D91-B0FC-E6C557FF0B03}"
@@ -3076,7 +3935,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2698899876663
+                                    "id": 54757955062329
                                 },
                                 "Name": "srcEndpoint=(HasTag: Boolean), destEndpoint=(If: Condition)",
                                 "Components": {
@@ -3085,7 +3944,7 @@
                                         "Id": 14990245723166900592,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2587230726967
+                                                "id": 54663465781817
                                             },
                                             "slotId": {
                                                 "m_id": "{A43A1C04-BAF6-4EB3-A262-0BAE66096C4C}"
@@ -3093,7 +3952,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2617295498039
+                                                "id": 54676350683705
                                             },
                                             "slotId": {
                                                 "m_id": "{DCCBD879-32F1-4539-A00B-972C89C9524F}"
@@ -3104,7 +3963,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2703194843959
+                                    "id": 54762250029625
                                 },
                                 "Name": "srcEndpoint=(If: True), destEndpoint=(Get Variable: In)",
                                 "Components": {
@@ -3113,7 +3972,7 @@
                                         "Id": 4081566683336215663,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2617295498039
+                                                "id": 54676350683705
                                             },
                                             "slotId": {
                                                 "m_id": "{A07CC978-C1D5-42DC-8383-CF096E91B77A}"
@@ -3121,7 +3980,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2561460923191
+                                                "id": 54633401010745
                                             },
                                             "slotId": {
                                                 "m_id": "{E5B1CF2C-6FBA-405C-BBD7-6E1084D15E6A}"
@@ -3132,7 +3991,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2707489811255
+                                    "id": 54766544996921
                                 },
                                 "Name": "srcEndpoint=(Get Variable: Out), destEndpoint=(Add (+): In)",
                                 "Components": {
@@ -3141,7 +4000,7 @@
                                         "Id": 5067500593554107742,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2561460923191
+                                                "id": 54633401010745
                                             },
                                             "slotId": {
                                                 "m_id": "{4AB300F4-9A32-4F63-85F1-7387C84E490E}"
@@ -3149,7 +4008,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2557165955895
+                                                "id": 54646285912633
                                             },
                                             "slotId": {
                                                 "m_id": "{A4152AFF-545A-4320-975B-9D1367FCF49E}"
@@ -3160,7 +4019,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2711784778551
+                                    "id": 54770839964217
                                 },
                                 "Name": "srcEndpoint=(Get Variable: Number), destEndpoint=(Add (+): Value)",
                                 "Components": {
@@ -3169,7 +4028,7 @@
                                         "Id": 16193848761644263363,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2561460923191
+                                                "id": 54633401010745
                                             },
                                             "slotId": {
                                                 "m_id": "{CAF08F71-B5F7-4DF4-8DBF-50E6EA5F7ABC}"
@@ -3177,7 +4036,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2557165955895
+                                                "id": 54646285912633
                                             },
                                             "slotId": {
                                                 "m_id": "{257773BA-B214-43A0-8F5F-2E4A2BBF9BAA}"
@@ -3188,7 +4047,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2716079745847
+                                    "id": 54775134931513
                                 },
                                 "Name": "srcEndpoint=(If: True), destEndpoint=(Print: In)",
                                 "Components": {
@@ -3197,7 +4056,7 @@
                                         "Id": 2170865708787695598,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2617295498039
+                                                "id": 54676350683705
                                             },
                                             "slotId": {
                                                 "m_id": "{A07CC978-C1D5-42DC-8383-CF096E91B77A}"
@@ -3205,7 +4064,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2600115628855
+                                                "id": 54667760749113
                                             },
                                             "slotId": {
                                                 "m_id": "{302963F7-5164-415F-9C27-1B4989F503F7}"
@@ -3216,7 +4075,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2720374713143
+                                    "id": 54779429898809
                                 },
                                 "Name": "srcEndpoint=(Add (+): Out), destEndpoint=(Set Variable: In)",
                                 "Components": {
@@ -3225,7 +4084,7 @@
                                         "Id": 7733170598774229114,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2557165955895
+                                                "id": 54646285912633
                                             },
                                             "slotId": {
                                                 "m_id": "{3A14E9B1-4EB5-4643-867D-6F3439EB3E07}"
@@ -3233,7 +4092,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2608705563447
+                                                "id": 54672055716409
                                             },
                                             "slotId": {
                                                 "m_id": "{C2EAA2F4-4386-45EF-8AC4-C4914CF2DFD0}"
@@ -3244,7 +4103,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2724669680439
+                                    "id": 54783724866105
                                 },
                                 "Name": "srcEndpoint=(Add (+): Result), destEndpoint=(Set Variable: Number)",
                                 "Components": {
@@ -3253,7 +4112,7 @@
                                         "Id": 11113311780776772701,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2557165955895
+                                                "id": 54646285912633
                                             },
                                             "slotId": {
                                                 "m_id": "{42D47CBD-D6D6-477A-91DC-B3D80D19BD9D}"
@@ -3261,7 +4120,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2608705563447
+                                                "id": 54672055716409
                                             },
                                             "slotId": {
                                                 "m_id": "{00368388-5581-4AD8-89E9-92FD2ABB4406}"
@@ -3272,7 +4131,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2728964647735
+                                    "id": 54788019833401
                                 },
                                 "Name": "srcEndpoint=(Set Variable: Out), destEndpoint=(Send Script Event: In)",
                                 "Components": {
@@ -3281,7 +4140,7 @@
                                         "Id": 1304459591904637446,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2608705563447
+                                                "id": 54672055716409
                                             },
                                             "slotId": {
                                                 "m_id": "{EDD992C6-4C8D-465C-9B46-CEC8B9CA34E9}"
@@ -3289,7 +4148,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2565755890487
+                                                "id": 54637695978041
                                             },
                                             "slotId": {
                                                 "m_id": "{543A56BD-15E7-433B-88A7-2EF1AF1FC79F}"
@@ -3300,7 +4159,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2733259615031
+                                    "id": 54792314800697
                                 },
                                 "Name": "srcEndpoint=(Set Variable: Number), destEndpoint=(Send Script Event: Health)",
                                 "Components": {
@@ -3309,7 +4168,7 @@
                                         "Id": 13409376758163056156,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2608705563447
+                                                "id": 54672055716409
                                             },
                                             "slotId": {
                                                 "m_id": "{D8CD4CA7-BBCF-489A-90F4-84EA2BAD790F}"
@@ -3317,7 +4176,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2565755890487
+                                                "id": 54637695978041
                                             },
                                             "slotId": {
                                                 "m_id": "{99170167-37CD-43AA-BC02-B8312E37CD76}"
@@ -3328,7 +4187,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2737554582327
+                                    "id": 54796609767993
                                 },
                                 "Name": "srcEndpoint=(Send Script Event: Out), destEndpoint=(Timer: Start)",
                                 "Components": {
@@ -3337,7 +4196,7 @@
                                         "Id": 1788800900184709275,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2565755890487
+                                                "id": 54637695978041
                                             },
                                             "slotId": {
                                                 "m_id": "{16E794C3-0F5C-4DEC-93E3-065B94D1F421}"
@@ -3345,7 +4204,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2625885432631
+                                                "id": 54629106043449
                                             },
                                             "slotId": {
                                                 "m_id": "{D63ABCBB-23D5-4618-868B-4F87649795B6}"
@@ -3356,7 +4215,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2741849549623
+                                    "id": 54800904735289
                                 },
                                 "Name": "srcEndpoint=(Timer: On Tick), destEndpoint=(Greater Than (>): In)",
                                 "Components": {
@@ -3365,7 +4224,7 @@
                                         "Id": 3217183067759912175,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2625885432631
+                                                "id": 54629106043449
                                             },
                                             "slotId": {
                                                 "m_id": "{7BD0FFDC-93C3-4B8D-8B9E-655EB7A3C432}"
@@ -3373,7 +4232,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2574345825079
+                                                "id": 54650580879929
                                             },
                                             "slotId": {
                                                 "m_id": "{DF46056E-C03D-4CF0-924A-9AA198C4C47A}"
@@ -3384,7 +4243,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2746144516919
+                                    "id": 54805199702585
                                 },
                                 "Name": "srcEndpoint=(Timer: Seconds), destEndpoint=(Greater Than (>): Value A)",
                                 "Components": {
@@ -3393,7 +4252,7 @@
                                         "Id": 10681510460209732404,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2625885432631
+                                                "id": 54629106043449
                                             },
                                             "slotId": {
                                                 "m_id": "{BDA361A4-B3C7-4DE3-9A3E-F2E1284C1EAF}"
@@ -3401,7 +4260,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2574345825079
+                                                "id": 54650580879929
                                             },
                                             "slotId": {
                                                 "m_id": "{68223041-2B79-4FA0-A35C-2238F9649B70}"
@@ -3412,7 +4271,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2750439484215
+                                    "id": 54809494669881
                                 },
                                 "Name": "srcEndpoint=(Greater Than (>): True), destEndpoint=(Send Script Event: In)",
                                 "Components": {
@@ -3421,7 +4280,7 @@
                                         "Id": 3240443447410434814,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2574345825079
+                                                "id": 54650580879929
                                             },
                                             "slotId": {
                                                 "m_id": "{87AAE54E-0FFF-4DB1-A943-4317F5F2ACBA}"
@@ -3429,7 +4288,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2578640792375
+                                                "id": 54607631206969
                                             },
                                             "slotId": {
                                                 "m_id": "{543A56BD-15E7-433B-88A7-2EF1AF1FC79F}"
@@ -3440,7 +4299,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2754734451511
+                                    "id": 54813789637177
                                 },
                                 "Name": "srcEndpoint=(Greater Than (>): True), destEndpoint=(Timer: Stop)",
                                 "Components": {
@@ -3449,7 +4308,7 @@
                                         "Id": 1198546231617652677,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2574345825079
+                                                "id": 54650580879929
                                             },
                                             "slotId": {
                                                 "m_id": "{87AAE54E-0FFF-4DB1-A943-4317F5F2ACBA}"
@@ -3457,7 +4316,7 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2625885432631
+                                                "id": 54629106043449
                                             },
                                             "slotId": {
                                                 "m_id": "{470C6A5C-318B-4740-AAAA-CB57D91ADC1A}"
@@ -3468,7 +4327,7 @@
                             },
                             {
                                 "Id": {
-                                    "id": 2759029418807
+                                    "id": 54818084604473
                                 },
                                 "Name": "srcEndpoint=(Send Script Event: Out), destEndpoint=(Set Variable: In)",
                                 "Components": {
@@ -3477,7 +4336,7 @@
                                         "Id": 8693736011422285410,
                                         "sourceEndpoint": {
                                             "nodeId": {
-                                                "id": 2578640792375
+                                                "id": 54607631206969
                                             },
                                             "slotId": {
                                                 "m_id": "{16E794C3-0F5C-4DEC-93E3-065B94D1F421}"
@@ -3485,10 +4344,38 @@
                                         },
                                         "targetEndpoint": {
                                             "nodeId": {
-                                                "id": 2595820661559
+                                                "id": 54654875847225
                                             },
                                             "slotId": {
                                                 "m_id": "{E35FEE91-2D82-4309-8A59-69C1284091DA}"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "Id": {
+                                    "id": 81262198245945
+                                },
+                                "Name": "srcEndpoint=(On Graph Start: Out), destEndpoint=(Delay: Start)",
+                                "Components": {
+                                    "Component_[12887007233466601010]": {
+                                        "$type": "{64CA5016-E803-4AC4-9A36-BDA2C890C6EB} Connection",
+                                        "Id": 12887007233466601010,
+                                        "sourceEndpoint": {
+                                            "nodeId": {
+                                                "id": 54620516108857
+                                            },
+                                            "slotId": {
+                                                "m_id": "{C4343FE8-E533-46B3-8623-8F54456E2956}"
+                                            }
+                                        },
+                                        "targetEndpoint": {
+                                            "nodeId": {
+                                                "id": 78526304078393
+                                            },
+                                            "slotId": {
+                                                "m_id": "{071F36C0-F4EA-4943-A830-3D8A3F7DC430}"
                                             }
                                         }
                                     }
@@ -3498,7 +4385,7 @@
                         "m_scriptEventAssets": [
                             [
                                 {
-                                    "id": 2565755890487
+                                    "id": 54637695978041
                                 },
                                 {}
                             ]
@@ -3514,7 +4401,7 @@
                     "GraphCanvasData": [
                         {
                             "Key": {
-                                "id": 2544281054007
+                                "id": 54603336239673
                             },
                             "Value": {
                                 "ComponentData": {
@@ -3559,9 +4446,9 @@
                                             }
                                         ],
                                         "ViewParams": {
-                                            "Scale": 0.47100678969985404,
-                                            "AnchorX": 316.3436279296875,
-                                            "AnchorY": -416.1298828125
+                                            "Scale": 0.4724962534562738,
+                                            "AnchorX": 277.2508850097656,
+                                            "AnchorY": 10.582094192504883
                                         }
                                     }
                                 }
@@ -3569,221 +4456,7 @@
                         },
                         {
                             "Key": {
-                                "id": 2548576021303
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "SetVariableNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            1500.0,
-                                            -100.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData",
-                                        "SubStyle": ".setVariable"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{50E01BC5-35F5-4417-B141-51F73FBA215C}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2552870988599
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "StringNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            5320.0,
-                                            900.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{7D7E867C-B264-41E3-B0F1-575D9C18CA91}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2557165955895
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "MathNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            3460.0,
-                                            700.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{652BBB95-A309-4FF3-B4FB-75E25AC555E8}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2561460923191
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "GetVariableNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            3220.0,
-                                            700.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData",
-                                        "SubStyle": ".getVariable"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{3241BD40-046A-44DA-A9FF-7863FB05E152}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2565755890487
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "MethodNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            4140.0,
-                                            700.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData",
-                                        "SubStyle": ".method"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{0D771F75-1CE3-4C5F-AFD6-0DEBEE4957F8}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2570050857783
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "MethodNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            880.0,
-                                            320.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData",
-                                        "SubStyle": ".method"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{1A6C66A9-7B42-4D3E-A24D-DA33BC30F477}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2574345825079
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "MathNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            4900.0,
-                                            680.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{FFC1A3C4-D286-4DE2-997A-6278C9EABCC9}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2578640792375
+                                "id": 54607631206969
                             },
                             "Value": {
                                 "ComponentData": {
@@ -3814,7 +4487,7 @@
                         },
                         {
                             "Key": {
-                                "id": 2582935759671
+                                "id": 54611926174265
                             },
                             "Value": {
                                 "ComponentData": {
@@ -3845,7 +4518,7 @@
                         },
                         {
                             "Key": {
-                                "id": 2587230726967
+                                "id": 54616221141561
                             },
                             "Value": {
                                 "ComponentData": {
@@ -3854,29 +4527,28 @@
                                     },
                                     "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
                                         "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "MethodNodeTitlePalette"
+                                        "PaletteOverride": "DefaultNodeTitlePalette"
                                     },
                                     "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
                                         "$type": "GeometrySaveData",
                                         "Position": [
-                                            2360.0,
-                                            660.0
+                                            920.0,
+                                            -200.0
                                         ]
                                     },
                                     "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData",
-                                        "SubStyle": ".method"
+                                        "$type": "StylingComponentSaveData"
                                     },
                                     "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
                                         "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{2AF716DF-DBDB-45C4-88C9-DF201CC7FD14}"
+                                        "PersistentId": "{6323D029-2B44-4FA7-8464-6E18485B50DF}"
                                     }
                                 }
                             }
                         },
                         {
                             "Key": {
-                                "id": 2591525694263
+                                "id": 54620516108857
                             },
                             "Value": {
                                 "ComponentData": {
@@ -3890,7 +4562,7 @@
                                     "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
                                         "$type": "GeometrySaveData",
                                         "Position": [
-                                            680.0,
+                                            500.0,
                                             320.0
                                         ]
                                     },
@@ -3906,7 +4578,220 @@
                         },
                         {
                             "Key": {
-                                "id": 2595820661559
+                                "id": 54624811076153
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "StringNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            5320.0,
+                                            900.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{7D7E867C-B264-41E3-B0F1-575D9C18CA91}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54629106043449
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "TimeNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            4500.0,
+                                            660.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{34DA8217-CC0C-4411-9EC9-ED583C0B58CE}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54633401010745
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "GetVariableNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            3220.0,
+                                            700.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData",
+                                        "SubStyle": ".getVariable"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{3241BD40-046A-44DA-A9FF-7863FB05E152}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54637695978041
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "MethodNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            4140.0,
+                                            700.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData",
+                                        "SubStyle": ".method"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{0D771F75-1CE3-4C5F-AFD6-0DEBEE4957F8}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54641990945337
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "MethodNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            880.0,
+                                            320.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData",
+                                        "SubStyle": ".method"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{1A6C66A9-7B42-4D3E-A24D-DA33BC30F477}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54646285912633
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "MathNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            3460.0,
+                                            700.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{652BBB95-A309-4FF3-B4FB-75E25AC555E8}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54650580879929
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "MathNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            4900.0,
+                                            680.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{FFC1A3C4-D286-4DE2-997A-6278C9EABCC9}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54654875847225
                             },
                             "Value": {
                                 "ComponentData": {
@@ -3937,7 +4822,68 @@
                         },
                         {
                             "Key": {
-                                "id": 2600115628855
+                                "id": 54659170814521
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "StringNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            1980.0,
+                                            -140.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{1CD73F6F-7F88-49A6-88C9-7E8B9A3CED93}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54663465781817
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "MethodNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            2360.0,
+                                            660.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData",
+                                        "SubStyle": ".method"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{2AF716DF-DBDB-45C4-88C9-DF201CC7FD14}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54667760749113
                             },
                             "Value": {
                                 "ComponentData": {
@@ -3967,37 +4913,7 @@
                         },
                         {
                             "Key": {
-                                "id": 2604410596151
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "DefaultNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            920.0,
-                                            -200.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{6323D029-2B44-4FA7-8464-6E18485B50DF}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2608705563447
+                                "id": 54672055716409
                             },
                             "Value": {
                                 "ComponentData": {
@@ -4028,38 +4944,7 @@
                         },
                         {
                             "Key": {
-                                "id": 2613000530743
-                            },
-                            "Value": {
-                                "ComponentData": {
-                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
-                                        "$type": "NodeSaveData"
-                                    },
-                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
-                                        "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "MethodNodeTitlePalette"
-                                    },
-                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
-                                        "$type": "GeometrySaveData",
-                                        "Position": [
-                                            1980.0,
-                                            440.0
-                                        ]
-                                    },
-                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
-                                        "$type": "StylingComponentSaveData",
-                                        "SubStyle": ".method"
-                                    },
-                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
-                                        "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{F979A011-3914-4225-8A9E-8FACC50FECAC}"
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "Key": {
-                                "id": 2617295498039
+                                "id": 54676350683705
                             },
                             "Value": {
                                 "ComponentData": {
@@ -4089,7 +4974,7 @@
                         },
                         {
                             "Key": {
-                                "id": 2621590465335
+                                "id": 54680645651001
                             },
                             "Value": {
                                 "ComponentData": {
@@ -4120,7 +5005,69 @@
                         },
                         {
                             "Key": {
-                                "id": 2625885432631
+                                "id": 54684940618297
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "MethodNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            1980.0,
+                                            440.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData",
+                                        "SubStyle": ".method"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{F979A011-3914-4225-8A9E-8FACC50FECAC}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 54689235585593
+                            },
+                            "Value": {
+                                "ComponentData": {
+                                    "{24CB38BB-1705-4EC5-8F63-B574571B4DCD}": {
+                                        "$type": "NodeSaveData"
+                                    },
+                                    "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
+                                        "$type": "GeneralNodeTitleComponentSaveData",
+                                        "PaletteOverride": "SetVariableNodeTitlePalette"
+                                    },
+                                    "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
+                                        "$type": "GeometrySaveData",
+                                        "Position": [
+                                            1500.0,
+                                            -100.0
+                                        ]
+                                    },
+                                    "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
+                                        "$type": "StylingComponentSaveData",
+                                        "SubStyle": ".setVariable"
+                                    },
+                                    "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
+                                        "$type": "PersistentIdComponentSaveData",
+                                        "PersistentId": "{50E01BC5-35F5-4417-B141-51F73FBA215C}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "Key": {
+                                "id": 77714555259449
                             },
                             "Value": {
                                 "ComponentData": {
@@ -4134,8 +5081,8 @@
                                     "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
                                         "$type": "GeometrySaveData",
                                         "Position": [
-                                            4500.0,
-                                            660.0
+                                            1360.0,
+                                            600.0
                                         ]
                                     },
                                     "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
@@ -4143,14 +5090,14 @@
                                     },
                                     "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
                                         "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{34DA8217-CC0C-4411-9EC9-ED583C0B58CE}"
+                                        "PersistentId": "{11C19FD3-8D07-4F20-A1ED-9B6B1AE1B0BD}"
                                     }
                                 }
                             }
                         },
                         {
                             "Key": {
-                                "id": 2630180399927
+                                "id": 78526304078393
                             },
                             "Value": {
                                 "ComponentData": {
@@ -4159,13 +5106,13 @@
                                     },
                                     "{328FF15C-C302-458F-A43D-E1794DE0904E}": {
                                         "$type": "GeneralNodeTitleComponentSaveData",
-                                        "PaletteOverride": "StringNodeTitlePalette"
+                                        "PaletteOverride": "TimeNodeTitlePalette"
                                     },
                                     "{7CC444B1-F9B3-41B5-841B-0C4F2179F111}": {
                                         "$type": "GeometrySaveData",
                                         "Position": [
-                                            1980.0,
-                                            -140.0
+                                            900.0,
+                                            560.0
                                         ]
                                     },
                                     "{B0B99C8A-03AF-4CF6-A926-F65C874C3D97}": {
@@ -4173,7 +5120,7 @@
                                     },
                                     "{B1F49A35-8408-40DA-B79E-F1E3B64322CE}": {
                                         "$type": "PersistentIdComponentSaveData",
-                                        "PersistentId": "{1CD73F6F-7F88-49A6-88C9-7E8B9A3CED93}"
+                                        "PersistentId": "{AEBD9E90-893A-44EB-88DA-965EC383565E}"
                                     }
                                 }
                             }
@@ -4217,8 +5164,12 @@
                                 "Value": 1
                             },
                             {
-                                "Key": 8233714554903076331,
+                                "Key": 5235960430898951644,
                                 "Value": 1
+                            },
+                            {
+                                "Key": 8233714554903076331,
+                                "Value": 2
                             },
                             {
                                 "Key": 8452971738487658154,

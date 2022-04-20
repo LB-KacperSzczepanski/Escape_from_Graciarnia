@@ -9,16 +9,25 @@
                     "RootNode",
                     "RootNode.crateItem",
                     "RootNode.crateItem.crateItem_1",
-                    "RootNode.crateItem.crateItem_2"
+                    "RootNode.crateItem.crateItem_2",
+                    "RootNode.crateItem.crateItem_1.transform",
+                    "RootNode.crateItem.crateItem_1.custom_properties",
+                    "RootNode.crateItem.crateItem_1.UV0",
+                    "RootNode.crateItem.crateItem_1.gold",
+                    "RootNode.crateItem.crateItem_1.wood",
+                    "RootNode.crateItem.crateItem_2.transform",
+                    "RootNode.crateItem.crateItem_2.custom_properties",
+                    "RootNode.crateItem.crateItem_2.UV0",
+                    "RootNode.crateItem.crateItem_2.gold",
+                    "RootNode.crateItem.crateItem_2.wood"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "gold",
-                "wood"
+                "gold"
             ],
             "PhysicsMaterials": [
-                "Metal",
-                "Wood"
+                "Metal"
             ]
         },
         {
@@ -26,11 +35,20 @@
             "name": "crateItem",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.crateItem",
                     "RootNode.crateItem.crateItem_1",
-                    "RootNode.crateItem.crateItem_2"
+                    "RootNode.crateItem.crateItem_2",
+                    "RootNode.crateItem.crateItem_1.transform",
+                    "RootNode.crateItem.crateItem_1.custom_properties",
+                    "RootNode.crateItem.crateItem_1.UV0",
+                    "RootNode.crateItem.crateItem_1.gold",
+                    "RootNode.crateItem.crateItem_1.wood",
+                    "RootNode.crateItem.crateItem_2.transform",
+                    "RootNode.crateItem.crateItem_2.custom_properties",
+                    "RootNode.crateItem.crateItem_2.UV0",
+                    "RootNode.crateItem.crateItem_2.gold",
+                    "RootNode.crateItem.crateItem_2.wood"
                 ]
             },
             "rules": {

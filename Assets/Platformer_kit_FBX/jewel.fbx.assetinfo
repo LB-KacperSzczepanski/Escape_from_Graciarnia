@@ -1,0 +1,52 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{2AEF27DA-3484-5C45-AFF5-5A39283B1542}",
+            "name": "jewel",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.jewel.jewel_1"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.jewel",
+                    "RootNode.jewel.jewel_2"
+                ]
+            },
+            "export method": 1,
+            "MaterialSlots": [
+                "gold"
+            ],
+            "PhysicsMaterials": [
+                "<Default Physics Material>"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "jewel",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.jewel",
+                    "RootNode.jewel.jewel_1",
+                    "RootNode.jewel.jewel_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{19EBB17E-593F-5729-8944-9746C7BE2A91}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}

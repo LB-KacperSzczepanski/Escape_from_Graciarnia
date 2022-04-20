@@ -9,15 +9,24 @@
                     "RootNode",
                     "RootNode.crate",
                     "RootNode.crate.crate_1",
-                    "RootNode.crate.crate_2"
+                    "RootNode.crate.crate_2",
+                    "RootNode.crate.crate_1.transform",
+                    "RootNode.crate.crate_1.custom_properties",
+                    "RootNode.crate.crate_1.UV0",
+                    "RootNode.crate.crate_1.woodDark",
+                    "RootNode.crate.crate_1.wood",
+                    "RootNode.crate.crate_2.transform",
+                    "RootNode.crate.crate_2.custom_properties",
+                    "RootNode.crate.crate_2.UV0",
+                    "RootNode.crate.crate_2.woodDark",
+                    "RootNode.crate.crate_2.wood"
                 ]
             },
+            "export method": 1,
             "MaterialSlots": [
-                "woodDark",
-                "wood"
+                "woodDark"
             ],
             "PhysicsMaterials": [
-                "Wood",
                 "Wood"
             ]
         },
@@ -26,11 +35,20 @@
             "name": "crate",
             "nodeSelectionList": {
                 "selectedNodes": [
-                    {},
                     "RootNode",
                     "RootNode.crate",
                     "RootNode.crate.crate_1",
-                    "RootNode.crate.crate_2"
+                    "RootNode.crate.crate_2",
+                    "RootNode.crate.crate_1.transform",
+                    "RootNode.crate.crate_1.custom_properties",
+                    "RootNode.crate.crate_1.UV0",
+                    "RootNode.crate.crate_1.woodDark",
+                    "RootNode.crate.crate_1.wood",
+                    "RootNode.crate.crate_2.transform",
+                    "RootNode.crate.crate_2.custom_properties",
+                    "RootNode.crate.crate_2.UV0",
+                    "RootNode.crate.crate_2.woodDark",
+                    "RootNode.crate.crate_2.wood"
                 ]
             },
             "rules": {

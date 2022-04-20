@@ -1,0 +1,52 @@
+{
+    "values": [
+        {
+            "$type": "{5B03C8E6-8CEE-4DA0-A7FA-CD88689DD45B} MeshGroup",
+            "id": "{8947860A-3F9F-5340-B028-11B85B851B2A}",
+            "name": "saw",
+            "NodeSelectionList": {
+                "selectedNodes": [
+                    "RootNode.saw.saw_1"
+                ],
+                "unselectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.saw",
+                    "RootNode.saw.saw_2"
+                ]
+            },
+            "export method": 1,
+            "MaterialSlots": [
+                "metal"
+            ],
+            "PhysicsMaterials": [
+                "<Default Physics Material>"
+            ]
+        },
+        {
+            "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
+            "name": "saw",
+            "nodeSelectionList": {
+                "selectedNodes": [
+                    {},
+                    "RootNode",
+                    "RootNode.saw",
+                    "RootNode.saw.saw_1",
+                    "RootNode.saw.saw_2"
+                ]
+            },
+            "rules": {
+                "rules": [
+                    {
+                        "$type": "MaterialRule"
+                    }
+                ]
+            },
+            "id": "{1F686718-62C0-5840-8F39-8E9073B769D9}"
+        },
+        {
+            "$type": "LoggingGroup",
+            "groupName": "Logger_0"
+        }
+    ]
+}
